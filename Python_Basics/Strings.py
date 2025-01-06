@@ -97,3 +97,12 @@ print(s.isdecimal())
 print(s.isdigit())
 print(s1.strip())
 print(s2.rstrip())
+
+
+# To sort a string
+
+s = "HelloWorld"
+res = sorted(s)
+print(res)
+s = "".join(res)
+print(s)

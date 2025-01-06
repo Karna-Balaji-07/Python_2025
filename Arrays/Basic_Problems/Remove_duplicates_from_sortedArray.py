@@ -13,13 +13,22 @@ def dup(arr):
 
 def dup2(arr):
     n = len(arr)
-    index = 1
+    count = 0
     for i in range(1,n):
         if arr[i] != arr[i-1]:
-            arr[index] = arr[i]
-            index += 1
-    return index, arr
+            count += 1
+            arr[count] = arr[i]
+    return count+1, arr
+
+def dup3(arr):
+    nums = []
+    for i in arr:
+        if i not in nums:
+            nums.append(i)
+    arr[:] = nums
+    return len(arr),arr
 
 arr = [32 ,40 ,43 ,60 ,72 ,78 ,82 ,82, 82, 99]
 print(dup(arr))
 print(dup2(arr))
+print(dup3(arr))

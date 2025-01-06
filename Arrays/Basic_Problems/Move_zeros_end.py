@@ -21,6 +21,6 @@ def move2(arr):
             index += 1
     return arr
 
-arr = [1,2,0,3,0,4,5,0,0]
+arr = [0,1,0,3,12]
 print(move1(arr))
 print(move2(arr))

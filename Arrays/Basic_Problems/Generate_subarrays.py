@@ -15,6 +15,6 @@ def subarrays2(arr):
             print(arr[i:j+1])
         
 
-arr = [1,2,3]
+arr = [1,2,3,4,5]
 print(subarrays(arr))
 subarrays2(arr)
