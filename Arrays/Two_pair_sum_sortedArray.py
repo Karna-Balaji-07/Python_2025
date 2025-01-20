@@ -4,6 +4,7 @@ def pair(arr, target):
     n = len(arr)
     first = 0
     last = n-1
+    arr.sort()
     while first < last:
         sums = arr[first] + arr[last]
         if sums == target:
@@ -14,5 +15,5 @@ def pair(arr, target):
             first += 1
     return -1
 
-arr = [2, 7, 11, 15]
-print(pair(arr,9))
+arr = [3,2,4]
+print(pair(arr,6))
