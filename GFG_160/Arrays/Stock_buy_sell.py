@@ -28,6 +28,8 @@ def transaction1(arr):
     return max_profit
 
 
+
+
 arr =     [7, 10, 1, 3, 6, 9, 2]                   
 print (transaction(arr))
 print(transaction1(arr))
