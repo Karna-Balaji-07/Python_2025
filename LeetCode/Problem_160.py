@@ -11,7 +11,7 @@ def intersection(head1,head2):
     temp,curr = head1,head2
     while temp != curr:
         if curr is not None:
-            curr=curr.next
+            curr=curr.next                                               
         else:
             curr=head1
         if temp is not None:

@@ -23,6 +23,26 @@ def subarray1(arr,k):
             prefix_sum[prefix]=1
     return count
 
+def subarray2(arr,k):
+    sums = 0
+    for i in range(1,len(arr)):
+        arr[i] += arr[i-1]
+    
+    result=0
+    dicts={0:1}
+    for i in arr:
+        target = i-k
+        if target in dicts:
+            result += dicts[target]
+        if i in dicts:
+            dicts[i] += 1
+        else:
+            dicts[i]=1
+    return result
+
+
+        
+
 nums = [1,2,3]
 k = 3
 print(subarray(nums,k))
