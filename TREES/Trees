@@ -1,1 +1,34 @@
-Trees 
+Binary Tree 
+Binary Tree is a non-linear and hierarchical data structure where each node has at most two children referred to as the left child
+ and the right child.  The topmost node in a binary tree is called the root, and the bottom-most nodes are called leaves.
+
+>> Each node in a binary tree has three parts:
+    1.data
+    2.Left pointer
+    3.Right pointer
+
+>> The topmost node is known as root node. It has no parent and serves as the starting points for all the nodes in the tree
+>> The maximum number of nodes at level L of a binary tree is 2^L
+>> The maximum number of nodes in a binary tree of height H is (2^H)-1
+>>Total number of leaf nodes in a binary tree = total number of nodes with 2 children + 1                            
+
+>> a full binary tree is a binary tree with either zero or two child nodes for each node.
+
+****************************************************************************************************************************************
+
+BREADTH FIRST SEARCH ( BFS ) / LEVEL ORDER TRAVERSAL
+- Level order traverses the tree in such a way that all the nodes in the same level are traversed before traversing the next level
+- The main idea of level order traversal is to traverse all the nodes of a lower level before moving to any of the nodes of a higher level. 
+- Level order traversal can be done either in stacks or queues
+
+DEPTH FIRST SEARCH DFS
+    - Inorder Traversal 
+    - Preorder Traversal
+    - Postorder Traversal
+
+    => Inorder traversal is defined as a type of tree traversal technique which follows the Left-Root-Right pattern, such that:
+        The left subtree is traversed first
+        Then the root node for that subtree is traversed
+        Finally, the right subtree is traversed
+
+    
