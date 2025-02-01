@@ -20,4 +20,5 @@ def atoi(s):
     return result * sign
 
 s="-1231"
+s="42"
 print(atoi(s))
