@@ -30,7 +30,7 @@ def deleteDuplicates(head):
     return head
 
 def deleteDuplicates1(head):
-    if head is None:
+    if head is None: 
         return None
     dummy = Node(0)
     prev = dummy
