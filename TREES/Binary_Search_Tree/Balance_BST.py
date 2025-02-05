@@ -27,7 +27,7 @@ def balanced(arr,start,end):
 def BST(root):
     arr = []
     inorder(root,arr)
-    return balanced(arr,0,len(arr)-1)
+    return balanced(arr,0,len(arr) -1)
 
 # Function to print the tree (Inorder Traversal)
 def inorder1(root):
