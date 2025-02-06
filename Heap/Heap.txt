@@ -1,0 +1,31 @@
+Heap is a complete binary tree data structure that satisfies the heap property.
+FOr every node the value of its children is greater than or equal to its own value
+
+Heaps are always used to implement using priority queues where the smallest or largest element is always at the root.
+
+Max-Heap:  The value of the root node must be the greatest among all its descendant nodes and the same thing must be done
+ for its left and right sub-tree also. 
+
+Min-Heap: The value of the root node must be the smallest among all its descendant nodes and the same thing must be done
+ for its left and right sub-tree also.
+
+The maximum or the minimum element is always at the root of the heap
+The relationship between a parent node at index ‘i’ and its children is given by the formulas:
+ left child at index 2i+1 and right child at index 2i+2 for 0-based indexing of node numbers.
+
+When we insert an item, we insert it at the last available slot and then rearrange the nodes 
+so that the heap property is maintained.
+
+When we remove an item, we swap root with the last node to make sure either the max or min item is removed. 
+Then we rearrange the remaining nodes to ensure heap property (max or min)
+
+Heapify is the process of rearranging the elements to maintain the property of heap data structure.
+
+for max heap, it makes sure the maximum element is the root of the binary tree and all the descendants follow the same property
+for min heap , it balances in such a way that the minimum element is the root and all the descendants follow the same.
+
+Time complexity for insertion is O(logn)
+when we delete the element from the heap, it always deletes the root element of the tree and replaces it with last element
+of the tree. Heapify operation is performed to maintain the property of heap
+time complexity is O(logn)
+
