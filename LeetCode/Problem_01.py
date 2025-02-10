@@ -10,6 +10,30 @@ dicts[arr[i]] = i   ==> will store the index of each arrray element where elemen
 
 '''
 
+'''
+Approach 1 : 
+=> use nested loops
+=> THe idea is to get the sum of all the subarrays and then compare it with target.
+Time complexity would be O(n2) 
+'''
+def twoSum1(arr,target):
+    for i in range(len(arr)):
+        for j in range(1,len(arr)):
+            if arr[i] + arr[j] == target:
+                return [i,j]
+    return [-1,-1]
+
+
+'''
+Approach 2: 
+THe idea here is to store the indices of the element in the dictionary as
+key : arr[i] key stores the array element
+value = i value stores the index of that element
+
+now we check if target-arr[i] is in dictionary since arr[i]+arr[j] = target
+if it is in target, we return the vvalue of the [target-arr[i]] from the dictionary 
+basically like using a hashmap
+'''
 def twoSum(arr,target):
     n = len(arr)
     dicts = {}
@@ -23,3 +47,4 @@ def twoSum(arr,target):
 nums = [3,2,4]
 target = 6
 print(twoSum(nums,target))
+print(twoSum1(nums,target))
