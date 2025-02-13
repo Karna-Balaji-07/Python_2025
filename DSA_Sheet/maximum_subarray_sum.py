@@ -8,5 +8,14 @@ def solution1(arr):
             maxi = max(maxi,sums)
     return maxi
 
+def solution2(arr):
+    maxs = arr[0]
+    sums = arr[0]
+    for i in range(1,len(arr)):
+        sums  = max(arr[i], arr[i]+sums)
+        maxs = max(sums, maxs)
+    return maxs
+
 arr = [2, 3, -8, 7, -1, 2, 3]
 print(solution1(arr))
+print(solution2(arr))
