@@ -176,42 +176,59 @@ def delete_contact():
 
 # Main function 
 
-print("**************** Welcome to Contact Management System **********************")
-print(" FOr adding new contacts press 1 ")
-print(" For viewing all the contacts press 2")
-print(" To search for a contact press 3")
-print(" TO update the existing contact press 4")
-print(" TO delete a contact press 5")
-print(" TO exit the application press 0 or exit")
-    
+def display_menu():
+    print("\n" + "="*75)
+    print("📇  WELCOME TO THE CONTACT MANAGEMENT SYSTEM".center(75))
+    print("="*75)
+    print("📌 Options:")
+    print("  1️⃣  Add New Contact")
+    print("  2️⃣  View All Contacts")
+    print("  3️⃣  Search for a Contact")
+    print("  4️⃣  Update Existing Contact")
+    print("  5️⃣  Delete a Contact")
+    print("  0️⃣  or type 'exit' to Quit")
+    print("  ❓  Type 'help' to view options again")
+    print("="*75)
 
+def display_help():
+    print("\n📖 HELP MENU")
+    print("-" * 40)
+    print("  1 - Add New Contact")
+    print("  2 - View All Contacts")
+    print("  3 - Search for a Contact")
+    print("  4 - Update Existing Contact")
+    print("  5 - Delete a Contact")
+    print("  0 or 'exit' - Quit the application")
+    print("-" * 40)
+
+# Main Program
+display_menu()
 
 while True:
-    n = input("Enter a Key : ")
-    if n not in ['1','2','3','4','5','0','exit','help']:
-        print("You have entered a wrong input. Please enter a correct input or enter help for display the controls")
+    user_input = input("👉 Enter a command: ").strip().lower()
+
+    if user_input not in ['1', '2', '3', '4', '5', '0', 'exit', 'help']:
+        print("❌ Invalid input! Type 'help' to see available commands.")
         continue
-    if n == '1':
+
+    if user_input == '1':
         add_contact()
-    elif n == '2':
-        print("\n**** Contact List ****")
+    elif user_input == '2':
+        print("\n📋 Contact List")
+        print("-" * 40)
         view_contacts()
-    elif n == '3':
+    elif user_input == '3':
         search_contact()
-    elif n == '4':
+    elif user_input == '4':
         update_contact()
-    elif n == '5':
-       delete_contact()
-    elif n == '0' or n == 'exit':
-        print("Thank you for using the application")
+    elif user_input == '5':
+        delete_contact()
+    elif user_input in ['0', 'exit']:
+        print("\n👋 Thank you for using the Contact Management System. Goodbye!")
         break
-    elif n == 'help':
-        print(" FOr adding new contacts             press 1 ")
-        print(" For viewing all the contacts        press 2")
-        print(" To search for a contact             press 3")
-        print(" TO update the existing contact      press 4")
-        print(" TO delete a contact                 press 5")
-        print(" TO exit the application             press 0 or exit")
+    elif user_input == 'help':
+        display_help()
+
 
 
 # End of the code

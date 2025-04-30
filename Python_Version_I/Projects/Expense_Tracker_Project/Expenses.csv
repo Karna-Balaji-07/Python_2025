@@ -1,0 +1,2009 @@
+Date,Expense/Income,Category,Payment Method,Amount,Balance
+2025-02-12 18:57:57,Expense,Food,Cash,200.0,9800.0
+2025-02-12 18:58:08,Income,Salary,Bank to Bank,1000.0,10800.0
+2025-02-12 18:58:19,Income,Freelance,Bank to Bank,250.0,11050.0
+2025-02-12 18:58:42,Expense,Transport,Cash,250.0,10800.0
+2025-02-12 18:59:06,Expense,Food,UPI,270.0,10530.0
+2025-02-12 18:59:34,Expense,Food,Cash,100.0,10430.0
+2025-02-13 17:39:14,Expense,Bills,UPI,650.0,9350.0
+2025-02-13 17:39:21,Income,Gifts,Bank to Bank,2560.0,11910.0
+2023-12-01 02:30:13,Income,Investments,Cash,3870.56,15780.56
+2023-01-15 17:58:17,Expense,Transport,Bank to Bank,3162.77,12617.79
+2023-07-22 11:22:01,Expense,Travel,Credit Card,4569.9,8047.89
+2024-01-04 20:26:14,Expense,Travel,UPI,473.67,7574.22
+2023-03-11 20:29:25,Income,Investments,Bank to Bank,4471.44,12045.66
+2023-02-27 16:48:04,Income,Freelance,Mobile Wallet,1158.43,13204.09
+2023-04-02 13:02:51,Income,Rental Income,Other,4031.48,17235.57
+2023-10-11 07:17:00,Expense,Housing,Credit Card,4237.84,12997.73
+2023-01-29 14:17:04,Expense,Transport,UPI,3590.35,9407.38
+2023-06-14 20:35:34,Income,Gifts,Other,2558.1,11965.48
+2023-06-01 19:23:33,Expense,Bills,Bank to Bank,688.66,11276.82
+2024-01-24 23:04:12,Income,Gifts,Cash,3472.09,14748.91
+2023-06-18 11:54:51,Income,Freelance,Other,3061.21,17810.12
+2023-07-20 13:36:54,Expense,Entertainment,Bank to Bank,1810.02,16000.1
+2023-09-03 10:20:30,Income,Other,Other,2988.51,18988.61
+2023-08-28 07:53:37,Expense,Travel,UPI,3514.73,15473.88
+2024-01-02 19:44:46,Expense,Education,Mobile Wallet,2886.27,12587.61
+2023-06-10 13:49:07,Expense,Travel,Credit Card,2661.67,9925.94
+2023-08-11 01:32:12,Expense,Housing,Debit Card,823.11,9102.83
+2023-07-21 16:01:52,Income,Gifts,Debit Card,3322.99,12425.82
+2024-02-04 15:56:32,Income,Other,Debit Card,3050.81,15476.63
+2023-11-16 08:04:01,Expense,Entertainment,Debit Card,2482.85,12993.78
+2023-05-23 04:54:06,Expense,Bills,Bank to Bank,3636.01,9357.77
+2023-03-04 20:26:16,Income,Investments,Credit Card,2198.43,11556.2
+2023-07-09 15:33:08,Expense,Entertainment,Mobile Wallet,1186.01,10370.19
+2023-01-07 00:55:29,Income,Business Income,UPI,3292.2,13662.39
+2024-01-23 16:49:02,Income,Salary,Mobile Wallet,3434.1,17096.49
+2023-03-21 15:08:48,Income,Gifts,Bank to Bank,968.24,18064.73
+2023-12-31 22:52:03,Expense,Shopping,Mobile Wallet,1053.4,17011.33
+2024-01-01 03:49:50,Income,Other,Cash,1107.63,18118.96
+2023-08-08 14:35:37,Income,Salary,UPI,3382.68,21501.64
+2024-01-06 20:52:58,Income,Investments,Mobile Wallet,3918.77,25420.41
+2023-10-09 14:30:52,Expense,Travel,Debit Card,2988.93,22431.48
+2023-11-06 18:17:59,Expense,Transport,Debit Card,745.36,21686.12
+2023-08-22 03:18:26,Expense,Bills,Debit Card,2638.04,19048.08
+2023-03-23 04:51:28,Expense,Travel,Debit Card,479.95,18568.13
+2023-04-12 03:20:49,Income,Gifts,Mobile Wallet,355.92,18924.05
+2023-04-02 23:09:52,Income,Other,Mobile Wallet,4780.79,23704.84
+2023-07-09 17:18:28,Expense,Education,Credit Card,1753.34,21951.5
+2023-05-01 18:09:25,Income,Salary,Credit Card,124.37,22075.87
+2023-10-01 01:00:43,Income,Other,Cash,4137.85,26213.72
+2023-08-29 14:12:44,Expense,Travel,Bank to Bank,4521.09,21692.63
+2023-01-21 04:04:14,Expense,Shopping,Other,1946.4,19746.23
+2023-05-06 19:30:26,Expense,Travel,Bank to Bank,3070.0,16676.23
+2023-09-15 01:37:00,Income,Investments,Other,3527.73,20203.96
+2023-01-21 14:24:46,Income,Investments,UPI,3615.67,23819.63
+2023-08-11 11:54:53,Expense,Transport,Other,3975.48,19844.15
+2023-07-08 07:05:17,Expense,Education,Credit Card,1456.23,18387.92
+2023-01-31 04:09:50,Expense,Education,Cash,4633.93,13753.99
+2023-11-19 13:25:41,Income,Gifts,Debit Card,2603.34,16357.33
+2023-09-13 05:52:09,Income,Rental Income,Other,3832.55,20189.88
+2023-12-16 06:22:06,Expense,Transport,Mobile Wallet,1460.69,18729.19
+2023-10-04 15:58:24,Income,Business Income,UPI,2912.03,21641.22
+2023-10-15 07:39:32,Income,Gifts,Bank to Bank,4124.0,25765.22
+2023-08-26 23:38:18,Income,Other,Debit Card,1777.18,27542.4
+2024-01-05 06:01:25,Expense,Bills,UPI,1164.82,26377.58
+2023-07-05 13:30:01,Expense,Food,Debit Card,3601.14,22776.44
+2023-12-30 12:24:14,Expense,Food,Bank to Bank,3959.34,18817.1
+2024-01-12 22:55:09,Income,Salary,Cash,1760.65,20577.75
+2023-09-17 00:16:59,Income,Rental Income,Debit Card,4816.32,25394.07
+2023-11-17 07:00:11,Expense,Miscellaneous,Mobile Wallet,4445.35,20948.72
+2023-08-01 19:08:05,Income,Salary,Debit Card,2326.73,23275.45
+2023-03-21 23:46:35,Income,Rental Income,Bank to Bank,4447.5,27722.95
+2023-01-09 12:50:20,Expense,Entertainment,Other,3981.9,23741.05
+2023-08-06 16:23:30,Income,Rental Income,Other,3097.45,26838.5
+2023-04-21 15:29:25,Expense,Entertainment,Other,4206.64,22631.86
+2023-03-25 23:20:16,Income,Business Income,Cash,4968.61,27600.47
+2023-05-02 09:56:49,Income,Other,Other,3258.3,30858.77
+2023-09-18 02:34:14,Expense,Travel,Other,4212.36,26646.41
+2023-11-02 21:29:18,Expense,Education,Cash,419.95,26226.46
+2023-11-02 12:24:48,Expense,Food,Cash,1226.14,25000.32
+2023-02-26 12:43:02,Income,Gifts,UPI,4206.38,29206.7
+2023-08-17 00:06:31,Income,Rental Income,Bank to Bank,4909.82,34116.52
+2023-12-25 00:57:16,Expense,Shopping,Other,940.48,33176.04
+2024-01-27 19:53:44,Expense,Bills,Mobile Wallet,4053.5,29122.54
+2023-09-01 22:38:52,Expense,Food,Debit Card,776.37,28346.17
+2023-02-16 08:11:09,Expense,Shopping,Cash,937.86,27408.31
+2023-05-16 13:22:13,Expense,Travel,Bank to Bank,686.9,26721.41
+2023-07-06 11:33:23,Expense,Miscellaneous,Debit Card,4444.6,22276.81
+2023-03-18 04:49:45,Expense,Transport,Mobile Wallet,2381.01,19895.8
+2023-12-16 11:00:15,Expense,Bills,Cash,1600.97,18294.83
+2023-05-25 03:02:35,Income,Rental Income,Cash,4626.9,22921.73
+2023-01-06 16:45:59,Expense,Bills,Bank to Bank,4120.8,18800.93
+2023-10-04 01:12:59,Expense,Housing,UPI,1532.15,17268.78
+2023-11-24 21:57:18,Expense,Housing,Credit Card,4940.87,12327.91
+2023-06-11 16:34:09,Expense,Transport,UPI,3198.77,9129.14
+2023-08-30 15:55:55,Expense,Transport,Credit Card,3587.56,5541.58
+2023-06-29 05:58:34,Expense,Transport,UPI,4242.78,1298.8
+2023-09-10 03:20:36,Income,Freelance,Mobile Wallet,1312.56,2611.36
+2024-01-05 12:42:20,Expense,Transport,Mobile Wallet,3128.23,-516.87
+2023-12-07 03:20:57,Income,Rental Income,Credit Card,365.08,-151.79
+2024-01-05 16:17:38,Expense,Shopping,Cash,540.93,-692.72
+2023-01-25 10:26:46,Expense,Health,Cash,454.28,-1147.0
+2023-03-25 06:41:49,Income,Freelance,Credit Card,3176.27,2029.27
+2024-01-30 21:54:25,Income,Rental Income,Other,3575.96,5605.23
+2023-08-28 09:16:38,Expense,Miscellaneous,Debit Card,1126.44,4478.79
+2023-08-04 04:07:21,Expense,Housing,Cash,1481.44,2997.35
+2023-03-06 20:40:48,Income,Rental Income,Mobile Wallet,1771.32,4768.67
+2023-03-03 19:10:27,Expense,Transport,Cash,3276.23,1492.44
+2023-11-29 12:20:49,Expense,Health,UPI,4342.26,-2849.82
+2023-09-08 11:35:37,Expense,Health,Cash,4244.19,-7094.01
+2023-10-01 18:41:01,Expense,Bills,Other,3217.58,-10311.59
+2023-06-05 03:42:28,Expense,Bills,Cash,4637.64,-14949.23
+2023-06-08 15:53:19,Expense,Transport,Credit Card,1910.91,-16860.14
+2023-04-14 11:43:43,Expense,Transport,Bank to Bank,914.72,-17774.86
+2023-09-09 09:20:04,Income,Investments,Bank to Bank,3288.89,-14485.97
+2023-09-27 23:45:16,Expense,Bills,Debit Card,636.81,-15122.78
+2023-05-02 04:03:07,Expense,Housing,UPI,1282.17,-16404.95
+2023-04-06 21:27:24,Expense,Bills,Debit Card,1324.32,-17729.27
+2023-09-01 22:34:27,Expense,Miscellaneous,UPI,4778.87,-22508.14
+2023-03-09 01:21:58,Income,Other,Bank to Bank,2796.5,-19711.64
+2023-01-08 16:23:49,Expense,Health,UPI,3995.62,-23707.26
+2023-11-07 09:52:54,Expense,Miscellaneous,UPI,4502.83,-28210.09
+2023-07-29 03:00:23,Income,Other,Mobile Wallet,3714.87,-24495.22
+2023-12-05 12:25:56,Income,Investments,Bank to Bank,1844.22,-22651.0
+2023-07-29 22:01:58,Income,Rental Income,Other,2003.89,-20647.11
+2023-12-15 19:37:11,Income,Other,Bank to Bank,4281.82,-16365.29
+2023-02-20 01:16:49,Expense,Shopping,Credit Card,952.64,-17317.93
+2023-05-02 05:39:23,Income,Salary,Credit Card,2814.69,-14503.24
+2023-08-10 10:10:00,Income,Salary,Other,4251.35,-10251.89
+2023-12-12 20:51:30,Expense,Health,Mobile Wallet,3853.61,-14105.5
+2023-03-28 15:52:22,Expense,Health,Mobile Wallet,3531.53,-17637.03
+2023-08-02 01:40:50,Income,Investments,Cash,2170.1,-15466.93
+2023-11-16 18:16:51,Income,Other,Cash,2848.01,-12618.92
+2023-11-10 15:56:38,Expense,Housing,Credit Card,1685.88,-14304.8
+2023-10-07 19:54:16,Income,Gifts,Cash,1001.59,-13303.21
+2023-03-17 22:42:00,Expense,Education,Cash,770.35,-14073.56
+2023-07-24 20:09:06,Expense,Food,Cash,1490.36,-15563.92
+2024-01-27 03:48:29,Income,Gifts,Bank to Bank,2823.44,-12740.48
+2023-07-23 09:16:29,Income,Investments,UPI,2275.86,-10464.62
+2024-01-31 02:35:12,Income,Rental Income,Other,3604.58,-6860.04
+2023-01-02 20:27:42,Income,Investments,Debit Card,1277.27,-5582.77
+2023-06-02 22:09:11,Income,Investments,Credit Card,298.94,-5283.83
+2023-08-03 22:00:56,Income,Rental Income,Debit Card,4914.18,-369.65
+2023-11-01 09:23:56,Income,Salary,Credit Card,3171.41,2801.76
+2023-09-29 21:37:09,Expense,Shopping,UPI,3078.69,-276.93
+2023-09-07 07:02:18,Income,Salary,Mobile Wallet,1077.08,800.15
+2023-07-25 01:34:30,Expense,Bills,UPI,3072.05,-2271.9
+2023-06-13 00:43:24,Expense,Housing,UPI,1912.08,-4183.98
+2023-09-07 08:43:00,Income,Gifts,Bank to Bank,3010.64,-1173.34
+2023-02-23 12:54:06,Income,Gifts,Other,1604.06,430.72
+2023-01-10 01:01:48,Expense,Travel,Cash,1683.3,-1252.58
+2023-01-03 09:18:09,Expense,Education,UPI,4628.87,-5881.45
+2023-04-26 09:50:08,Expense,Transport,Cash,2759.54,-8640.99
+2023-04-19 19:09:45,Income,Salary,UPI,2073.42,-6567.57
+2023-05-11 19:19:54,Income,Freelance,Debit Card,2454.68,-4112.89
+2023-11-24 01:06:38,Expense,Travel,Cash,216.91,-4329.8
+2023-06-22 09:28:23,Expense,Education,Mobile Wallet,811.2,-5141.0
+2023-09-20 12:38:11,Expense,Housing,Debit Card,4213.74,-9354.74
+2024-01-25 00:46:33,Income,Other,Other,3459.69,-5895.05
+2023-10-19 10:44:04,Expense,Education,Bank to Bank,4229.89,-10124.94
+2023-02-01 07:17:39,Expense,Shopping,Mobile Wallet,4540.59,-14665.53
+2023-07-30 21:39:35,Expense,Bills,Credit Card,2106.35,-16771.88
+2023-05-03 19:32:47,Expense,Food,Other,3643.8,-20415.68
+2023-10-12 22:49:36,Expense,Travel,Cash,3386.76,-23802.44
+2023-08-12 07:12:01,Expense,Travel,Mobile Wallet,4542.11,-28344.55
+2024-01-31 12:55:55,Expense,Transport,Other,2185.75,-30530.3
+2023-02-13 03:53:23,Expense,Entertainment,Cash,3701.53,-34231.83
+2023-04-13 14:00:22,Expense,Housing,Other,1770.33,-36002.16
+2023-09-21 21:17:11,Expense,Food,Debit Card,2379.22,-38381.38
+2023-09-30 20:51:17,Expense,Education,UPI,4091.38,-42472.76
+2023-02-10 08:58:23,Income,Gifts,Mobile Wallet,3431.09,-39041.67
+2023-12-06 02:37:29,Expense,Health,Other,1790.7,-40832.37
+2023-07-03 03:12:18,Expense,Travel,Other,267.47,-41099.84
+2023-05-14 17:48:26,Expense,Housing,Bank to Bank,4685.8,-45785.64
+2023-12-20 19:12:31,Expense,Miscellaneous,Debit Card,4867.87,-50653.51
+2023-02-21 12:09:36,Income,Other,Mobile Wallet,586.67,-50066.84
+2023-07-07 02:16:49,Income,Other,Credit Card,3829.1,-46237.74
+2023-07-22 07:32:56,Expense,Miscellaneous,Bank to Bank,2233.38,-48471.12
+2023-05-09 14:05:20,Income,Gifts,Credit Card,987.59,-47483.53
+2023-07-27 00:21:05,Income,Gifts,Other,547.01,-46936.52
+2023-01-14 01:19:34,Income,Gifts,Bank to Bank,2105.81,-44830.71
+2023-06-26 11:51:34,Income,Salary,Debit Card,4813.06,-40017.65
+2023-08-04 21:00:58,Expense,Food,Debit Card,515.26,-40532.91
+2023-11-13 14:32:02,Income,Salary,Other,1989.21,-38543.7
+2023-02-14 21:29:04,Expense,Transport,Mobile Wallet,1974.26,-40517.96
+2023-10-29 10:05:57,Expense,Entertainment,Other,181.43,-40699.39
+2023-05-12 18:23:24,Expense,Food,Debit Card,3177.57,-43876.96
+2023-03-10 02:27:41,Income,Investments,Other,3046.12,-40830.84
+2023-06-10 23:51:33,Expense,Health,UPI,4242.83,-45073.67
+2024-01-07 12:22:18,Expense,Entertainment,Debit Card,2894.27,-47967.94
+2023-02-18 01:12:20,Income,Gifts,Credit Card,4160.55,-43807.39
+2023-04-10 09:15:30,Income,Gifts,UPI,1807.31,-42000.08
+2023-12-05 21:10:45,Income,Rental Income,UPI,1898.42,-40101.66
+2023-01-22 08:35:23,Expense,Health,UPI,880.3,-40981.96
+2023-10-15 16:35:35,Income,Salary,Credit Card,914.53,-40067.43
+2023-05-16 23:34:36,Income,Salary,Credit Card,714.85,-39352.58
+2023-08-09 20:27:30,Expense,Food,Credit Card,2925.76,-42278.34
+2023-10-29 20:47:48,Income,Rental Income,UPI,2112.57,-40165.77
+2024-01-05 07:46:06,Expense,Shopping,UPI,1152.97,-41318.74
+2023-07-20 22:10:30,Income,Rental Income,UPI,2842.3,-38476.44
+2024-01-21 23:46:27,Expense,Travel,Cash,3111.55,-41587.99
+2023-02-26 10:50:16,Income,Gifts,Bank to Bank,3417.57,-38170.42
+2023-09-18 10:49:51,Income,Freelance,Credit Card,1913.09,-36257.33
+2023-06-03 08:28:00,Expense,Bills,Mobile Wallet,401.06,-36658.39
+2023-04-06 15:46:44,Expense,Education,Debit Card,1147.49,-37805.88
+2023-05-10 14:00:38,Expense,Food,Other,1458.14,-39264.02
+2023-12-10 16:23:22,Expense,Housing,Mobile Wallet,1121.65,-40385.67
+2023-10-27 13:11:30,Expense,Shopping,Debit Card,1121.33,-41507.0
+2024-01-26 15:30:21,Expense,Bills,Mobile Wallet,4843.59,-46350.59
+2023-04-08 17:04:22,Income,Investments,Bank to Bank,768.84,-45581.75
+2023-02-08 16:50:10,Expense,Food,Cash,2950.22,-48531.97
+2023-02-15 08:24:32,Expense,Bills,Other,1556.3,-50088.27
+2023-01-19 19:26:41,Income,Freelance,Cash,1431.24,-48657.03
+2023-02-13 20:03:20,Income,Other,Debit Card,1154.18,-47502.85
+2023-12-20 14:39:20,Expense,Transport,Cash,4328.12,-51830.97
+2023-10-10 20:37:53,Income,Salary,Credit Card,3751.78,-48079.19
+2023-02-09 19:16:14,Expense,Food,UPI,4677.57,-52756.76
+2023-08-06 11:15:49,Expense,Food,Mobile Wallet,2075.24,-54832.0
+2023-05-31 10:01:34,Expense,Miscellaneous,UPI,4469.12,-59301.12
+2023-10-18 00:06:57,Expense,Transport,Bank to Bank,1140.0,-60441.12
+2023-05-28 05:10:40,Income,Gifts,Debit Card,493.3,-59947.82
+2023-11-13 16:34:44,Income,Gifts,Cash,2704.26,-57243.56
+2023-05-13 14:33:09,Income,Freelance,Debit Card,3447.48,-53796.08
+2023-05-21 03:21:17,Expense,Travel,Mobile Wallet,1186.66,-54982.74
+2023-12-14 02:23:59,Expense,Education,Cash,3349.62,-58332.36
+2023-02-23 09:47:58,Expense,Shopping,Bank to Bank,345.98,-58678.34
+2023-03-01 06:27:47,Expense,Food,Cash,4831.91,-63510.25
+2023-05-25 19:40:55,Income,Gifts,UPI,1294.79,-62215.46
+2023-09-04 13:37:44,Income,Gifts,Mobile Wallet,970.2,-61245.26
+2023-06-12 14:07:50,Expense,Health,Cash,1549.4,-62794.66
+2023-08-06 15:07:27,Income,Salary,Cash,4709.3,-58085.36
+2024-01-12 13:21:01,Expense,Housing,Cash,4820.76,-62906.12
+2023-01-08 19:04:39,Expense,Health,Mobile Wallet,4639.65,-67545.77
+2023-03-30 05:57:25,Expense,Miscellaneous,Cash,1390.8,-68936.57
+2023-05-01 09:56:37,Income,Freelance,Debit Card,4426.27,-64510.3
+2023-03-07 13:09:54,Income,Other,UPI,3666.01,-60844.29
+2023-06-29 03:58:13,Income,Investments,UPI,1462.06,-59382.23
+2023-02-04 06:48:33,Income,Investments,Bank to Bank,3262.23,-56120.0
+2023-09-07 22:06:36,Income,Rental Income,Debit Card,1443.28,-54676.72
+2023-02-09 20:57:13,Expense,Food,Debit Card,2586.63,-57263.35
+2023-02-14 13:48:48,Income,Gifts,Cash,3622.82,-53640.53
+2023-04-13 18:56:08,Income,Freelance,UPI,2194.41,-51446.12
+2023-04-28 22:05:53,Income,Investments,Cash,1456.68,-49989.44
+2023-08-24 13:56:38,Expense,Travel,Cash,1274.71,-51264.15
+2023-01-17 09:47:20,Expense,Education,Credit Card,3614.03,-54878.18
+2023-04-29 03:50:55,Expense,Housing,Credit Card,560.17,-55438.35
+2023-10-09 04:56:31,Expense,Shopping,Mobile Wallet,300.86,-55739.21
+2023-11-07 08:15:00,Expense,Food,Credit Card,728.7,-56467.91
+2023-01-25 18:45:18,Expense,Health,Other,319.08,-56786.99
+2023-03-30 21:13:51,Income,Gifts,Credit Card,2495.55,-54291.44
+2023-09-28 03:46:25,Expense,Transport,Debit Card,1943.39,-56234.83
+2023-07-24 16:01:34,Expense,Bills,Bank to Bank,1463.4,-57698.23
+2023-08-07 15:01:37,Income,Rental Income,Credit Card,4329.27,-53368.96
+2023-03-11 10:51:15,Income,Freelance,Cash,3896.17,-49472.79
+2023-05-04 10:01:21,Income,Salary,Bank to Bank,4929.93,-44542.86
+2023-04-17 13:21:12,Income,Freelance,Mobile Wallet,757.22,-43785.64
+2023-11-21 07:38:27,Income,Rental Income,Cash,2889.56,-40896.08
+2023-03-02 06:43:17,Expense,Housing,Bank to Bank,4853.21,-45749.29
+2023-03-06 21:25:43,Income,Other,Credit Card,3356.56,-42392.73
+2023-03-29 18:52:43,Expense,Food,Mobile Wallet,2249.36,-44642.09
+2023-05-18 09:54:05,Expense,Food,Other,1905.41,-46547.5
+2023-09-30 09:17:00,Expense,Entertainment,Debit Card,2831.39,-49378.89
+2023-02-28 07:25:15,Income,Rental Income,Bank to Bank,970.19,-48408.7
+2023-09-09 13:31:37,Income,Other,Credit Card,957.84,-47450.86
+2023-01-25 19:03:56,Expense,Miscellaneous,Bank to Bank,670.17,-48121.03
+2023-03-29 17:20:41,Expense,Food,UPI,355.92,-48476.95
+2023-11-05 06:40:34,Expense,Miscellaneous,Credit Card,4552.12,-53029.07
+2023-11-13 09:53:51,Income,Freelance,UPI,4568.36,-48460.71
+2023-12-18 19:20:14,Expense,Education,UPI,311.59,-48772.3
+2023-02-21 11:03:17,Income,Gifts,Mobile Wallet,1164.24,-47608.06
+2023-10-25 06:46:39,Income,Gifts,Credit Card,3901.99,-43706.07
+2023-07-06 09:33:24,Income,Other,Bank to Bank,4421.73,-39284.34
+2023-08-27 08:06:16,Income,Gifts,Bank to Bank,603.96,-38680.38
+2023-10-15 14:17:23,Expense,Education,UPI,4319.5,-42999.88
+2023-12-29 08:33:50,Income,Other,Debit Card,4836.63,-38163.25
+2023-11-18 17:44:25,Income,Other,Mobile Wallet,2263.98,-35899.27
+2023-01-05 17:37:11,Income,Business Income,Mobile Wallet,2429.81,-33469.46
+2023-07-02 01:50:14,Expense,Health,Credit Card,2561.0,-36030.46
+2023-11-17 07:04:20,Income,Other,Mobile Wallet,1229.25,-34801.21
+2023-01-20 05:15:49,Expense,Housing,Bank to Bank,2115.97,-36917.18
+2023-10-12 05:03:08,Expense,Housing,Other,600.79,-37517.97
+2023-10-17 01:38:05,Income,Rental Income,Credit Card,1006.59,-36511.38
+2023-09-29 20:49:48,Expense,Housing,Other,1142.46,-37653.84
+2024-01-07 09:43:28,Income,Other,Debit Card,3972.78,-33681.06
+2024-01-26 03:26:50,Expense,Shopping,UPI,2865.81,-36546.87
+2023-11-01 23:09:00,Expense,Food,UPI,2748.22,-39295.09
+2023-11-24 22:47:15,Income,Salary,UPI,2540.51,-36754.58
+2023-01-02 02:28:36,Income,Gifts,Cash,3716.81,-33037.77
+2023-02-23 14:39:12,Income,Rental Income,Other,1715.02,-31322.75
+2023-06-04 13:40:16,Expense,Health,Debit Card,1193.72,-32516.47
+2023-08-19 03:55:36,Income,Rental Income,Bank to Bank,1507.87,-31008.6
+2023-05-18 07:09:20,Expense,Food,Debit Card,3450.81,-34459.41
+2023-02-05 13:45:54,Income,Salary,Cash,1354.52,-33104.89
+2023-01-31 22:11:32,Income,Salary,Bank to Bank,2100.37,-31004.52
+2023-06-25 12:10:56,Income,Freelance,Mobile Wallet,4956.63,-26047.89
+2024-02-05 03:46:34,Expense,Housing,Bank to Bank,2268.74,-28316.63
+2023-12-10 14:22:30,Income,Investments,Bank to Bank,1098.72,-27217.91
+2023-02-22 07:35:06,Expense,Bills,Credit Card,3009.4,-30227.31
+2023-10-18 01:55:57,Income,Investments,Mobile Wallet,1006.17,-29221.14
+2023-01-02 10:09:01,Expense,Miscellaneous,Bank to Bank,3951.76,-33172.9
+2023-04-14 16:30:40,Expense,Health,Debit Card,461.81,-33634.71
+2023-07-07 02:33:10,Income,Salary,Credit Card,3500.81,-30133.9
+2023-02-28 21:21:40,Income,Business Income,Cash,1376.02,-28757.88
+2023-11-12 00:23:45,Income,Freelance,Bank to Bank,4862.85,-23895.03
+2023-10-17 16:32:59,Income,Freelance,Cash,1365.73,-22529.3
+2023-10-15 06:30:23,Expense,Housing,UPI,3150.28,-25679.58
+2024-02-01 07:09:40,Expense,Transport,Cash,4032.86,-29712.44
+2024-01-25 09:36:58,Expense,Health,UPI,2538.96,-32251.4
+2023-06-02 03:12:18,Income,Freelance,Bank to Bank,3467.77,-28783.63
+2023-11-03 22:05:35,Income,Other,UPI,1334.23,-27449.4
+2023-01-19 15:28:07,Income,Salary,Credit Card,910.23,-26539.17
+2023-03-06 00:28:49,Expense,Housing,Credit Card,2353.07,-28892.24
+2023-03-07 20:27:11,Expense,Entertainment,Other,1800.09,-30692.33
+2023-07-12 01:38:39,Income,Business Income,Mobile Wallet,3365.1,-27327.23
+2023-12-02 18:43:33,Expense,Bills,Credit Card,1922.53,-29249.76
+2024-01-19 14:06:14,Income,Salary,Other,2398.75,-26851.01
+2023-09-07 03:43:02,Income,Investments,UPI,4712.11,-22138.9
+2023-05-26 18:30:46,Income,Salary,Debit Card,824.66,-21314.24
+2023-12-28 19:50:47,Expense,Housing,UPI,747.83,-22062.07
+2023-08-08 23:00:49,Income,Other,Other,2759.39,-19302.68
+2023-03-17 22:47:23,Income,Freelance,UPI,1457.12,-17845.56
+2023-09-24 04:47:04,Income,Business Income,Bank to Bank,2419.04,-15426.52
+2023-09-14 05:53:31,Expense,Entertainment,UPI,3741.2,-19167.72
+2024-01-06 16:40:56,Expense,Food,UPI,3233.31,-22401.03
+2023-06-10 22:30:40,Expense,Housing,Credit Card,3160.06,-25561.09
+2023-01-30 18:22:33,Expense,Miscellaneous,Mobile Wallet,380.3,-25941.39
+2023-05-15 11:32:41,Income,Salary,Bank to Bank,3118.53,-22822.86
+2023-06-13 01:08:44,Expense,Education,Other,1674.06,-24496.92
+2023-05-12 20:10:19,Expense,Health,Cash,4510.97,-29007.89
+2023-01-23 18:23:27,Income,Other,Credit Card,4995.16,-24012.73
+2023-01-13 13:45:45,Expense,Health,Other,2361.04,-26373.77
+2023-11-28 05:21:57,Expense,Entertainment,UPI,383.53,-26757.3
+2023-06-06 21:44:24,Expense,Travel,UPI,1719.37,-28476.67
+2023-02-25 10:23:20,Expense,Education,Bank to Bank,2518.17,-30994.84
+2023-05-20 12:11:48,Income,Gifts,Cash,693.65,-30301.19
+2023-06-26 06:04:33,Expense,Housing,Bank to Bank,3630.37,-33931.56
+2023-10-18 07:53:29,Expense,Housing,Cash,4825.17,-38756.73
+2023-08-11 12:11:49,Expense,Education,UPI,853.88,-39610.61
+2023-04-14 17:09:21,Expense,Food,Mobile Wallet,2484.97,-42095.58
+2023-05-02 03:17:52,Income,Gifts,UPI,1171.85,-40923.73
+2023-12-16 22:38:12,Expense,Health,Debit Card,2252.11,-43175.84
+2023-12-18 02:27:44,Income,Gifts,Debit Card,3182.96,-39992.88
+2023-02-22 03:28:48,Expense,Health,Bank to Bank,4182.67,-44175.55
+2023-08-05 16:56:16,Expense,Travel,UPI,2979.94,-47155.49
+2023-12-20 05:23:28,Income,Business Income,Mobile Wallet,1349.94,-45805.55
+2023-11-22 16:26:27,Expense,Transport,Bank to Bank,704.18,-46509.73
+2023-05-07 22:01:38,Expense,Shopping,Mobile Wallet,2371.86,-48881.59
+2023-10-19 15:29:54,Income,Freelance,Bank to Bank,1690.88,-47190.71
+2023-11-01 10:23:43,Income,Gifts,UPI,2504.74,-44685.97
+2023-06-19 22:02:37,Income,Rental Income,Mobile Wallet,787.62,-43898.35
+2023-09-15 15:38:16,Expense,Food,Debit Card,3774.25,-47672.6
+2023-10-18 05:10:13,Income,Salary,Bank to Bank,3403.34,-44269.26
+2023-01-24 01:02:30,Expense,Travel,Credit Card,801.39,-45070.65
+2023-09-11 04:30:06,Income,Investments,Debit Card,3599.82,-41470.83
+2023-12-08 22:16:15,Income,Other,Bank to Bank,4884.5,-36586.33
+2023-06-29 14:41:23,Income,Investments,Credit Card,4698.56,-31887.77
+2023-07-09 03:30:09,Expense,Miscellaneous,Mobile Wallet,3965.53,-35853.3
+2023-08-15 19:32:34,Income,Business Income,Other,4902.83,-30950.47
+2023-04-15 13:13:25,Expense,Shopping,Mobile Wallet,1831.29,-32781.76
+2023-06-11 23:50:52,Income,Freelance,Other,2737.23,-30044.53
+2023-11-29 22:02:19,Income,Investments,UPI,2879.5,-27165.03
+2023-12-19 00:44:43,Income,Gifts,Cash,2491.32,-24673.71
+2023-12-16 06:57:24,Expense,Health,Bank to Bank,536.98,-25210.69
+2023-02-02 17:32:29,Expense,Miscellaneous,Cash,4004.71,-29215.4
+2023-04-27 02:40:46,Expense,Travel,Other,2683.13,-31898.53
+2023-05-14 00:18:19,Income,Business Income,UPI,467.52,-31431.01
+2023-05-04 15:31:26,Expense,Shopping,Cash,3745.64,-35176.65
+2023-11-13 09:52:48,Income,Business Income,Cash,393.45,-34783.2
+2023-04-18 00:00:48,Income,Gifts,Cash,1515.97,-33267.23
+2023-03-20 01:02:24,Income,Salary,Credit Card,4315.49,-28951.74
+2023-12-30 12:23:01,Income,Business Income,Bank to Bank,4174.36,-24777.38
+2023-03-21 09:47:25,Income,Freelance,Debit Card,968.75,-23808.63
+2023-09-14 06:28:21,Expense,Shopping,Mobile Wallet,1380.69,-25189.32
+2024-01-24 18:13:27,Income,Salary,Debit Card,3228.99,-21960.33
+2023-04-27 12:51:00,Expense,Shopping,Bank to Bank,2024.4,-23984.73
+2024-01-15 12:32:11,Income,Salary,Other,942.28,-23042.45
+2023-01-01 15:20:58,Expense,Shopping,Other,3535.14,-26577.59
+2023-08-26 08:57:01,Expense,Travel,Debit Card,2780.67,-29358.26
+2023-09-21 19:35:00,Income,Gifts,Debit Card,260.78,-29097.48
+2023-05-28 17:20:34,Expense,Health,Bank to Bank,2398.85,-31496.33
+2023-12-27 18:29:28,Income,Salary,Credit Card,2210.12,-29286.21
+2023-02-19 02:11:56,Income,Gifts,Cash,1438.89,-27847.32
+2023-01-08 08:35:45,Expense,Travel,UPI,1777.69,-29625.01
+2023-05-26 06:39:56,Income,Other,Other,2674.58,-26950.43
+2024-02-04 19:57:20,Expense,Bills,Cash,2513.68,-29464.11
+2023-07-03 20:07:41,Income,Business Income,Other,2142.59,-27321.52
+2023-01-04 05:05:20,Expense,Shopping,Cash,4212.7,-31534.22
+2024-01-15 06:23:56,Income,Investments,Bank to Bank,3039.57,-28494.65
+2023-04-26 16:24:27,Income,Rental Income,UPI,4943.69,-23550.96
+2023-05-10 13:53:12,Income,Business Income,Other,1611.6,-21939.36
+2023-08-06 10:03:31,Expense,Education,Credit Card,420.8,-22360.16
+2023-10-17 11:03:11,Expense,Bills,Debit Card,3309.97,-25670.13
+2023-07-05 08:22:03,Expense,Education,Other,2722.92,-28393.05
+2023-07-02 20:27:24,Expense,Health,UPI,4831.23,-33224.28
+2023-04-06 01:44:18,Income,Salary,Credit Card,880.8,-32343.48
+2023-06-15 23:35:29,Income,Gifts,Cash,4882.97,-27460.51
+2023-08-19 11:13:42,Expense,Health,UPI,1106.62,-28567.13
+2023-09-09 07:08:48,Expense,Housing,Credit Card,2746.63,-31313.76
+2023-03-31 10:06:22,Income,Salary,Credit Card,4383.49,-26930.27
+2023-11-02 19:01:25,Expense,Travel,Mobile Wallet,1496.91,-28427.18
+2023-10-20 03:22:47,Income,Investments,Mobile Wallet,2709.76,-25717.42
+2023-12-25 02:24:17,Expense,Housing,Other,890.18,-26607.6
+2023-01-29 01:30:11,Expense,Housing,Cash,3795.84,-30403.44
+2023-12-31 03:13:57,Expense,Education,Credit Card,329.39,-30732.83
+2023-03-04 09:01:51,Expense,Shopping,Credit Card,3724.1,-34456.93
+2023-09-04 19:22:42,Expense,Transport,Other,2788.72,-37245.65
+2023-08-16 15:03:39,Income,Gifts,Cash,373.83,-36871.82
+2023-05-24 09:03:43,Expense,Entertainment,Bank to Bank,4458.76,-41330.58
+2023-09-30 14:19:35,Income,Investments,UPI,4418.4,-36912.18
+2023-03-11 01:11:26,Expense,Education,Credit Card,624.38,-37536.56
+2023-07-11 07:04:22,Income,Freelance,Other,2004.23,-35532.33
+2023-05-31 03:02:59,Income,Business Income,Other,1044.53,-34487.8
+2023-08-28 01:31:57,Expense,Miscellaneous,Credit Card,3336.78,-37824.58
+2023-08-05 03:09:21,Expense,Health,Debit Card,1264.14,-39088.72
+2023-07-22 01:44:35,Income,Freelance,Cash,809.74,-38278.98
+2023-07-30 21:07:54,Expense,Shopping,Cash,4242.27,-42521.25
+2024-01-31 18:22:57,Expense,Transport,Credit Card,157.51,-42678.76
+2023-09-19 10:49:06,Expense,Housing,Bank to Bank,4633.42,-47312.18
+2023-07-02 07:36:31,Expense,Housing,Bank to Bank,561.42,-47873.6
+2023-02-12 14:29:24,Expense,Transport,Credit Card,359.74,-48233.34
+2023-06-09 04:18:58,Expense,Shopping,Debit Card,4446.85,-52680.19
+2023-01-09 08:20:16,Expense,Travel,Bank to Bank,3110.94,-55791.13
+2023-02-08 18:03:12,Expense,Health,Cash,3583.25,-59374.38
+2023-10-15 02:14:55,Income,Salary,Bank to Bank,3186.03,-56188.35
+2023-07-03 15:48:53,Expense,Health,Cash,407.81,-56596.16
+2024-01-26 17:49:29,Income,Freelance,Bank to Bank,3210.64,-53385.52
+2023-01-25 19:10:31,Income,Other,Debit Card,4422.04,-48963.48
+2023-11-30 01:00:51,Expense,Education,Cash,4459.62,-53423.1
+2023-02-05 23:53:07,Income,Rental Income,Bank to Bank,898.86,-52524.24
+2023-07-29 18:09:59,Expense,Transport,Cash,4195.13,-56719.37
+2023-06-06 14:04:12,Income,Business Income,Cash,4647.79,-52071.58
+2023-05-04 00:46:00,Income,Other,Cash,3668.24,-48403.34
+2023-06-25 04:51:44,Income,Rental Income,Debit Card,923.51,-47479.83
+2023-02-25 09:44:28,Income,Business Income,Mobile Wallet,3584.18,-43895.65
+2023-02-06 18:31:33,Expense,Food,Debit Card,1702.99,-45598.64
+2023-03-13 20:15:00,Income,Gifts,Bank to Bank,2473.85,-43124.79
+2023-08-15 19:35:09,Expense,Housing,Other,968.52,-44093.31
+2023-03-07 11:16:10,Income,Investments,Credit Card,3756.65,-40336.66
+2023-02-26 05:38:00,Expense,Health,Debit Card,1341.02,-41677.68
+2023-05-04 07:31:48,Income,Other,Debit Card,3165.63,-38512.05
+2023-10-31 23:10:46,Income,Business Income,Credit Card,1347.32,-37164.73
+2023-11-27 17:15:36,Income,Other,Debit Card,3769.79,-33394.94
+2023-09-06 11:48:15,Expense,Education,Mobile Wallet,3994.36,-37389.3
+2023-02-03 11:29:31,Expense,Food,Other,215.96,-37605.26
+2023-01-09 16:08:28,Income,Business Income,Mobile Wallet,2677.78,-34927.48
+2023-09-19 09:31:35,Expense,Health,UPI,3791.73,-38719.21
+2024-01-31 05:16:22,Income,Freelance,Mobile Wallet,4583.24,-34135.97
+2023-10-08 21:57:56,Expense,Housing,Mobile Wallet,2387.57,-36523.54
+2023-07-18 08:34:44,Expense,Food,Bank to Bank,4144.19,-40667.73
+2023-05-24 05:27:40,Income,Freelance,Debit Card,1594.43,-39073.3
+2023-06-11 22:46:31,Expense,Transport,Credit Card,4462.01,-43535.31
+2024-01-21 06:00:09,Income,Rental Income,Cash,3180.74,-40354.57
+2023-04-14 11:44:11,Income,Gifts,Debit Card,839.26,-39515.31
+2023-05-03 15:36:52,Income,Rental Income,Debit Card,4913.1,-34602.21
+2023-05-14 10:12:25,Income,Business Income,Mobile Wallet,3628.56,-30973.65
+2023-02-04 04:20:53,Income,Investments,Debit Card,1528.63,-29445.02
+2023-09-24 02:15:36,Expense,Travel,Bank to Bank,3653.32,-33098.34
+2023-10-31 08:02:02,Income,Rental Income,Credit Card,4290.46,-28807.88
+2023-01-02 10:08:42,Expense,Bills,Debit Card,2471.41,-31279.29
+2023-02-13 06:48:10,Expense,Housing,Credit Card,4735.93,-36015.22
+2023-02-01 10:07:36,Expense,Travel,Credit Card,1652.9,-37668.12
+2023-07-29 04:25:32,Expense,Bills,Mobile Wallet,3326.37,-40994.49
+2023-04-24 08:43:59,Expense,Health,Debit Card,2847.21,-43841.7
+2023-08-22 08:54:59,Expense,Education,UPI,3908.56,-47750.26
+2023-04-01 02:46:45,Income,Gifts,Mobile Wallet,2691.02,-45059.24
+2023-11-13 16:40:15,Income,Salary,Mobile Wallet,2325.8,-42733.44
+2023-07-27 09:44:45,Income,Gifts,Mobile Wallet,267.81,-42465.63
+2023-08-04 00:13:50,Income,Gifts,Mobile Wallet,174.68,-42290.95
+2023-08-05 21:55:40,Expense,Miscellaneous,Other,1688.16,-43979.11
+2023-09-26 23:44:42,Expense,Shopping,Cash,342.1,-44321.21
+2023-11-05 19:56:47,Income,Gifts,Credit Card,1553.31,-42767.9
+2024-01-09 22:11:28,Expense,Bills,Bank to Bank,1100.25,-43868.15
+2023-07-28 02:51:06,Income,Rental Income,UPI,344.95,-43523.2
+2023-01-23 13:28:43,Income,Gifts,Debit Card,386.45,-43136.75
+2023-07-19 01:25:23,Expense,Travel,Other,1069.03,-44205.78
+2023-10-26 15:08:33,Expense,Travel,Cash,1352.31,-45558.09
+2023-10-04 10:17:33,Income,Business Income,Other,4481.01,-41077.08
+2023-11-23 15:57:12,Income,Rental Income,UPI,1626.39,-39450.69
+2023-12-08 15:16:30,Income,Freelance,Debit Card,2058.9,-37391.79
+2023-06-21 03:31:36,Expense,Transport,Debit Card,838.75,-38230.54
+2023-04-12 23:33:12,Expense,Bills,Bank to Bank,3790.82,-42021.36
+2024-01-24 22:00:45,Income,Gifts,Bank to Bank,1611.23,-40410.13
+2023-02-27 04:48:31,Income,Gifts,Bank to Bank,3859.2,-36550.93
+2023-09-10 11:14:45,Income,Other,UPI,2809.67,-33741.26
+2023-07-25 13:01:37,Income,Business Income,UPI,3191.42,-30549.84
+2023-10-15 17:37:30,Expense,Entertainment,Debit Card,3575.28,-34125.12
+2023-02-09 14:02:22,Income,Other,UPI,4172.36,-29952.76
+2023-09-05 00:50:04,Expense,Shopping,Other,2661.43,-32614.19
+2023-03-21 05:57:42,Expense,Transport,UPI,4669.89,-37284.08
+2023-03-14 12:39:32,Expense,Entertainment,Bank to Bank,4475.17,-41759.25
+2023-11-19 04:29:54,Income,Gifts,Debit Card,1875.94,-39883.31
+2023-05-21 14:59:48,Income,Business Income,Bank to Bank,2678.19,-37205.12
+2023-06-20 14:28:57,Income,Rental Income,Credit Card,1498.78,-35706.34
+2023-08-21 02:17:58,Income,Other,Credit Card,3678.85,-32027.49
+2023-04-14 10:59:12,Income,Other,Mobile Wallet,1837.58,-30189.91
+2023-08-08 00:52:55,Income,Other,Credit Card,4029.42,-26160.49
+2023-05-24 11:00:44,Expense,Miscellaneous,Other,4355.06,-30515.55
+2023-04-18 03:52:36,Expense,Travel,Debit Card,1086.5,-31602.05
+2024-01-14 20:37:59,Income,Salary,UPI,4543.44,-27058.61
+2023-11-19 06:53:45,Income,Freelance,Bank to Bank,3972.53,-23086.08
+2023-04-26 12:27:42,Expense,Bills,Mobile Wallet,2544.91,-25630.99
+2024-01-22 11:11:55,Expense,Travel,Other,2805.28,-28436.27
+2023-02-13 10:16:24,Income,Salary,Mobile Wallet,1582.01,-26854.26
+2023-05-05 17:24:45,Expense,Bills,Credit Card,1887.0,-28741.26
+2023-11-04 04:06:55,Expense,Shopping,Debit Card,3908.52,-32649.78
+2023-01-02 18:22:49,Income,Rental Income,Mobile Wallet,2515.8,-30133.98
+2023-07-02 13:47:44,Income,Business Income,Bank to Bank,4207.88,-25926.1
+2023-09-13 19:44:49,Expense,Miscellaneous,Mobile Wallet,2256.88,-28182.98
+2023-12-19 08:06:48,Income,Rental Income,Credit Card,1328.27,-26854.71
+2023-12-16 23:32:03,Expense,Miscellaneous,Credit Card,3031.5,-29886.21
+2024-01-01 20:22:53,Income,Investments,Cash,3457.64,-26428.57
+2023-03-27 03:01:14,Expense,Travel,Credit Card,4177.23,-30605.8
+2023-10-05 21:12:03,Expense,Housing,UPI,541.13,-31146.93
+2023-04-30 17:01:27,Expense,Education,UPI,3971.64,-35118.57
+2023-11-03 23:57:22,Income,Other,Bank to Bank,3886.55,-31232.02
+2023-01-07 19:38:33,Income,Salary,Other,3917.46,-27314.56
+2023-06-24 21:28:46,Income,Investments,UPI,1635.86,-25678.7
+2023-10-26 20:05:59,Expense,Travel,UPI,4503.42,-30182.12
+2023-08-27 06:18:39,Income,Investments,Other,2055.93,-28126.19
+2023-05-20 00:13:30,Expense,Shopping,Mobile Wallet,353.31,-28479.5
+2023-07-07 14:30:58,Expense,Miscellaneous,Credit Card,4450.45,-32929.95
+2023-01-13 16:03:50,Income,Rental Income,Cash,3387.28,-29542.67
+2023-09-27 06:08:31,Income,Freelance,Other,607.28,-28935.39
+2023-04-18 03:17:53,Expense,Food,Other,983.49,-29918.88
+2023-11-04 12:16:02,Income,Freelance,Mobile Wallet,3335.6,-26583.28
+2023-09-22 04:20:00,Expense,Miscellaneous,Mobile Wallet,1812.63,-28395.91
+2023-11-23 08:13:19,Expense,Entertainment,Cash,4950.56,-33346.47
+2024-01-22 01:12:24,Expense,Food,Credit Card,4895.74,-38242.21
+2024-02-03 17:20:03,Expense,Entertainment,Bank to Bank,265.83,-38508.04
+2023-10-28 22:21:27,Expense,Shopping,Bank to Bank,911.63,-39419.67
+2023-05-02 00:07:55,Expense,Shopping,Credit Card,2315.11,-41734.78
+2023-01-25 09:59:48,Expense,Housing,Debit Card,1261.71,-42996.49
+2023-08-30 17:48:26,Expense,Bills,Debit Card,2492.02,-45488.51
+2023-06-22 20:13:18,Income,Rental Income,UPI,3502.43,-41986.08
+2024-02-02 14:01:50,Expense,Education,UPI,324.57,-42310.65
+2023-04-07 10:31:07,Income,Investments,UPI,1900.42,-40410.23
+2023-06-24 13:37:08,Income,Investments,Debit Card,4694.01,-35716.22
+2023-11-19 14:37:33,Income,Business Income,UPI,2145.46,-33570.76
+2023-09-23 11:34:54,Income,Salary,Other,3162.19,-30408.57
+2023-10-09 09:33:53,Expense,Entertainment,Credit Card,1748.26,-32156.83
+2023-06-30 12:41:59,Income,Rental Income,Debit Card,249.35,-31907.48
+2023-03-24 06:20:42,Expense,Education,Bank to Bank,3021.7,-34929.18
+2024-01-07 21:17:48,Income,Freelance,Debit Card,3489.79,-31439.39
+2023-04-16 15:26:16,Income,Gifts,Credit Card,2924.03,-28515.36
+2024-01-03 20:36:55,Income,Rental Income,UPI,884.53,-27630.83
+2023-10-09 07:49:19,Income,Freelance,UPI,1395.32,-26235.51
+2023-07-04 23:57:26,Expense,Food,Bank to Bank,1058.19,-27293.7
+2023-02-11 17:21:45,Expense,Bills,Bank to Bank,4354.03,-31647.73
+2023-11-10 09:18:53,Expense,Education,Debit Card,4645.26,-36292.99
+2023-01-13 18:00:45,Income,Investments,UPI,3192.17,-33100.82
+2023-02-06 05:29:46,Expense,Shopping,Cash,3526.77,-36627.59
+2023-06-08 10:25:22,Income,Salary,Debit Card,3006.07,-33621.52
+2023-06-03 00:38:08,Expense,Shopping,Bank to Bank,3466.76,-37088.28
+2023-04-08 15:36:29,Expense,Miscellaneous,Other,2768.18,-39856.46
+2023-10-21 17:32:28,Income,Salary,Cash,4456.28,-35400.18
+2023-01-03 12:08:14,Income,Gifts,Debit Card,148.7,-35251.48
+2024-01-22 13:57:20,Income,Other,Debit Card,1221.8,-34029.68
+2023-09-04 00:16:34,Income,Other,Mobile Wallet,4610.31,-29419.37
+2023-03-05 07:35:52,Income,Business Income,Cash,3261.73,-26157.64
+2023-11-22 00:18:37,Expense,Shopping,Other,1238.01,-27395.65
+2023-03-11 16:31:43,Income,Other,Cash,3058.16,-24337.49
+2024-01-10 00:56:46,Expense,Housing,Cash,572.04,-24909.53
+2024-01-11 05:25:09,Expense,Shopping,Bank to Bank,2330.57,-27240.1
+2023-12-31 15:42:21,Expense,Miscellaneous,Cash,1813.06,-29053.16
+2023-06-28 03:17:48,Expense,Education,Bank to Bank,4736.0,-33789.16
+2023-11-09 11:14:28,Income,Freelance,Cash,2483.0,-31306.16
+2023-12-12 01:54:14,Expense,Travel,Mobile Wallet,1682.72,-32988.88
+2023-05-08 14:54:27,Income,Investments,Mobile Wallet,2003.3,-30985.58
+2023-02-16 03:51:47,Expense,Shopping,Mobile Wallet,3450.72,-34436.3
+2023-04-28 10:06:19,Expense,Bills,Mobile Wallet,935.27,-35371.57
+2023-09-11 17:28:17,Income,Gifts,Other,3496.24,-31875.33
+2023-04-03 02:31:14,Expense,Travel,Mobile Wallet,417.66,-32292.99
+2023-08-03 05:34:38,Income,Rental Income,Other,3669.2,-28623.79
+2023-10-08 07:50:08,Income,Rental Income,Bank to Bank,824.25,-27799.54
+2023-10-19 06:09:40,Income,Other,Debit Card,915.08,-26884.46
+2023-10-24 00:02:58,Income,Gifts,Mobile Wallet,2281.86,-24602.6
+2023-04-25 22:44:35,Expense,Entertainment,Credit Card,1029.95,-25632.55
+2023-06-25 01:48:42,Income,Freelance,Credit Card,4015.8,-21616.75
+2023-07-24 11:08:49,Expense,Housing,Other,3684.6,-25301.35
+2023-03-11 07:29:09,Income,Salary,UPI,1721.19,-23580.16
+2023-09-15 05:13:19,Income,Gifts,Other,4871.98,-18708.18
+2023-05-17 13:20:46,Expense,Bills,Cash,1335.02,-20043.2
+2023-06-01 23:54:44,Income,Business Income,Bank to Bank,4851.02,-15192.18
+2023-01-20 19:39:08,Expense,Food,Cash,1822.6,-17014.78
+2023-05-15 02:11:54,Expense,Food,Bank to Bank,1311.85,-18326.63
+2023-05-26 20:12:46,Income,Other,Cash,388.75,-17937.88
+2023-08-03 14:20:43,Income,Rental Income,Other,2294.63,-15643.25
+2023-05-30 09:23:08,Expense,Shopping,Cash,1738.69,-17381.94
+2023-07-06 15:50:22,Income,Freelance,UPI,422.75,-16959.19
+2023-01-09 13:46:04,Income,Freelance,Other,4670.65,-12288.54
+2023-10-15 06:26:43,Income,Investments,Mobile Wallet,3111.94,-9176.6
+2023-02-15 08:01:15,Expense,Bills,Cash,4459.31,-13635.91
+2023-12-10 07:28:20,Income,Gifts,Mobile Wallet,3169.84,-10466.07
+2023-01-13 13:09:53,Expense,Travel,Cash,1901.96,-12368.03
+2023-01-23 15:12:07,Income,Other,Credit Card,2716.48,-9651.55
+2023-05-09 16:32:38,Expense,Miscellaneous,Other,1902.69,-11554.24
+2023-10-21 00:13:51,Expense,Transport,Other,2717.65,-14271.89
+2023-09-09 13:47:21,Expense,Transport,Other,3208.71,-17480.6
+2024-01-19 13:17:25,Income,Other,Debit Card,4226.01,-13254.59
+2023-09-10 00:36:42,Expense,Shopping,Bank to Bank,704.35,-13958.94
+2023-07-01 22:28:11,Income,Rental Income,Bank to Bank,908.88,-13050.06
+2023-05-12 23:36:54,Income,Other,Other,4739.52,-8310.54
+2023-06-27 18:35:24,Expense,Transport,UPI,3319.11,-11629.65
+2023-07-11 22:21:36,Income,Other,Credit Card,4254.81,-7374.84
+2023-09-21 12:26:30,Expense,Bills,Cash,4211.19,-11586.03
+2023-08-01 06:10:35,Income,Rental Income,Debit Card,4676.12,-6909.91
+2023-08-03 03:40:36,Expense,Entertainment,Bank to Bank,2641.98,-9551.89
+2023-10-30 23:55:52,Expense,Education,Mobile Wallet,1392.3,-10944.19
+2023-02-07 07:47:02,Income,Other,Other,1676.56,-9267.63
+2024-01-18 13:12:11,Expense,Transport,UPI,376.05,-9643.68
+2023-11-30 16:18:59,Income,Gifts,Bank to Bank,1620.53,-8023.15
+2023-08-28 05:05:28,Income,Other,Other,4049.93,-3973.22
+2023-03-30 19:22:02,Income,Freelance,Debit Card,4436.77,463.55
+2023-11-14 05:11:07,Income,Freelance,Mobile Wallet,1481.34,1944.89
+2023-07-17 18:43:04,Income,Salary,Other,3277.14,5222.03
+2023-10-11 08:20:30,Income,Investments,Debit Card,1164.81,6386.84
+2023-01-18 23:18:13,Expense,Travel,Other,1317.81,5069.03
+2023-03-09 21:57:25,Expense,Transport,Mobile Wallet,1263.89,3805.14
+2023-04-29 15:16:11,Income,Business Income,Other,1271.64,5076.78
+2023-01-16 23:03:44,Expense,Miscellaneous,Bank to Bank,2864.42,2212.36
+2023-05-27 07:43:49,Expense,Entertainment,Credit Card,3804.1,-1591.74
+2023-08-18 07:02:03,Expense,Transport,Other,756.6,-2348.34
+2023-05-30 20:38:20,Income,Rental Income,Cash,2819.83,471.49
+2023-05-27 13:30:35,Income,Freelance,Other,4994.68,5466.17
+2023-01-31 18:28:57,Expense,Miscellaneous,Cash,909.73,4556.44
+2023-03-09 12:53:10,Income,Other,Debit Card,1214.95,5771.39
+2023-01-10 01:08:42,Income,Salary,Mobile Wallet,578.25,6349.64
+2023-04-25 06:36:12,Income,Business Income,UPI,1351.56,7701.2
+2023-04-12 00:26:34,Income,Investments,Bank to Bank,4446.95,12148.15
+2023-04-19 10:11:54,Expense,Health,Bank to Bank,2178.49,9969.66
+2023-06-20 06:59:33,Expense,Health,Debit Card,3324.8,6644.86
+2023-05-21 23:29:25,Expense,Education,UPI,3387.53,3257.33
+2023-02-01 04:48:55,Income,Investments,Cash,3460.09,6717.42
+2023-03-05 05:14:50,Income,Investments,Credit Card,292.08,7009.5
+2023-10-18 04:35:55,Expense,Bills,Credit Card,3130.06,3879.44
+2023-07-03 15:50:46,Expense,Health,Mobile Wallet,1845.46,2033.98
+2023-07-26 22:22:19,Income,Business Income,UPI,611.32,2645.3
+2023-12-19 02:50:29,Income,Salary,Debit Card,3732.75,6378.05
+2023-03-11 18:03:46,Expense,Bills,UPI,4646.03,1732.02
+2023-04-23 05:24:20,Income,Investments,Bank to Bank,987.91,2719.93
+2023-03-15 18:58:43,Expense,Miscellaneous,Debit Card,132.64,2587.29
+2023-01-18 21:48:55,Income,Other,Debit Card,4563.85,7151.14
+2023-04-01 13:15:06,Expense,Education,Bank to Bank,771.58,6379.56
+2023-04-30 00:12:36,Expense,Miscellaneous,Bank to Bank,920.26,5459.3
+2023-04-06 12:53:36,Income,Freelance,Other,1492.58,6951.88
+2024-01-29 04:07:46,Income,Other,Other,1062.59,8014.47
+2023-12-26 23:23:59,Expense,Education,Debit Card,1587.48,6426.99
+2023-04-28 23:23:59,Income,Investments,Cash,290.74,6717.73
+2023-09-04 18:24:07,Income,Rental Income,Other,4349.04,11066.77
+2023-11-19 09:28:58,Income,Other,Debit Card,2827.37,13894.14
+2023-12-30 09:17:55,Income,Gifts,Mobile Wallet,4664.09,18558.23
+2023-01-04 11:12:52,Expense,Shopping,Mobile Wallet,3475.89,15082.34
+2023-04-01 02:25:45,Expense,Bills,Bank to Bank,3857.97,11224.37
+2023-07-13 12:17:46,Expense,Travel,Debit Card,917.65,10306.72
+2023-07-13 20:16:55,Expense,Entertainment,Credit Card,536.07,9770.65
+2024-02-05 00:31:13,Expense,Housing,UPI,3217.37,6553.28
+2023-03-21 14:44:57,Expense,Shopping,Debit Card,4045.47,2507.81
+2023-08-30 17:23:30,Expense,Education,Debit Card,2715.98,-208.17
+2023-01-17 17:22:45,Income,Rental Income,Bank to Bank,1071.79,863.62
+2023-11-28 22:53:49,Expense,Food,Cash,2841.38,-1977.76
+2023-08-03 15:37:17,Income,Business Income,Debit Card,1197.37,-780.39
+2023-02-16 12:03:54,Income,Salary,Other,4514.56,3734.17
+2023-10-03 16:19:09,Expense,Entertainment,Credit Card,841.29,2892.88
+2023-10-29 17:13:36,Expense,Food,Credit Card,425.45,2467.43
+2023-10-29 01:50:15,Income,Freelance,Other,1739.99,4207.42
+2023-05-29 15:28:35,Income,Other,Bank to Bank,2322.22,6529.64
+2023-09-13 19:02:23,Income,Other,Credit Card,4078.73,10608.37
+2023-02-02 13:14:10,Income,Freelance,Credit Card,766.88,11375.25
+2023-10-17 12:19:25,Expense,Education,Other,1864.89,9510.36
+2023-11-02 18:01:07,Expense,Miscellaneous,Mobile Wallet,4144.04,5366.32
+2023-07-03 04:28:00,Expense,Entertainment,Credit Card,4134.65,1231.67
+2023-08-04 22:41:20,Expense,Health,Mobile Wallet,3011.52,-1779.85
+2023-03-21 19:43:56,Expense,Transport,UPI,4990.17,-6770.02
+2023-12-01 15:50:43,Expense,Transport,UPI,4784.64,-11554.66
+2023-09-22 19:36:49,Income,Gifts,Debit Card,2341.99,-9212.67
+2023-05-07 12:38:15,Income,Gifts,UPI,1309.13,-7903.54
+2023-03-06 18:39:22,Income,Business Income,Debit Card,3061.58,-4841.96
+2023-03-16 13:22:44,Income,Rental Income,Debit Card,1570.48,-3271.48
+2023-02-26 17:14:38,Income,Other,UPI,1077.67,-2193.81
+2023-02-22 17:01:09,Income,Other,Other,1457.5,-736.31
+2023-03-20 21:19:30,Income,Gifts,Debit Card,1247.42,511.11
+2023-11-29 11:05:20,Expense,Transport,Credit Card,3023.81,-2512.7
+2023-03-31 15:20:39,Expense,Education,Other,2438.96,-4951.66
+2023-04-11 17:09:29,Expense,Transport,Credit Card,4663.5,-9615.16
+2023-03-30 15:10:15,Expense,Transport,Mobile Wallet,1197.78,-10812.94
+2024-01-27 12:00:58,Expense,Transport,Other,3514.7,-14327.64
+2023-12-22 20:29:36,Income,Other,Debit Card,4901.38,-9426.26
+2023-12-22 21:27:46,Income,Freelance,Credit Card,544.7,-8881.56
+2024-01-05 18:34:55,Income,Other,Credit Card,186.27,-8695.29
+2023-09-01 05:26:10,Income,Gifts,Other,2098.71,-6596.58
+2023-01-13 05:19:49,Expense,Shopping,Bank to Bank,1007.91,-7604.49
+2023-05-12 19:01:48,Expense,Bills,Credit Card,2775.33,-10379.82
+2023-06-01 01:25:31,Expense,Education,Cash,3917.57,-14297.39
+2023-01-28 22:43:17,Income,Gifts,Cash,4955.86,-9341.53
+2023-10-07 22:47:43,Expense,Miscellaneous,Cash,3207.12,-12548.65
+2023-10-10 09:25:58,Expense,Health,UPI,222.49,-12771.14
+2023-05-18 16:40:24,Income,Salary,Cash,3272.14,-9499.0
+2023-11-08 18:51:40,Expense,Health,Credit Card,4517.32,-14016.32
+2023-03-17 23:44:36,Income,Investments,Other,3784.75,-10231.57
+2023-11-19 20:45:35,Expense,Travel,Bank to Bank,4366.7,-14598.27
+2023-01-24 13:07:10,Expense,Health,Credit Card,2837.0,-17435.27
+2023-07-22 17:33:32,Expense,Food,Credit Card,3899.54,-21334.81
+2023-09-16 01:36:18,Expense,Miscellaneous,Mobile Wallet,2744.8,-24079.61
+2023-09-20 13:29:45,Income,Business Income,Mobile Wallet,2447.52,-21632.09
+2023-06-19 04:55:51,Income,Other,Cash,4023.58,-17608.51
+2023-10-07 09:35:51,Expense,Health,UPI,2209.84,-19818.35
+2023-06-08 12:53:41,Income,Business Income,Bank to Bank,2588.99,-17229.36
+2023-10-06 00:25:32,Income,Other,Bank to Bank,3345.07,-13884.29
+2023-02-07 05:17:55,Expense,Education,Credit Card,1836.89,-15721.18
+2024-02-04 08:42:44,Income,Other,Debit Card,4197.78,-11523.4
+2023-03-13 19:35:58,Income,Freelance,Credit Card,148.2,-11375.2
+2023-05-07 23:10:57,Expense,Education,Bank to Bank,4849.86,-16225.06
+2023-11-15 17:02:27,Income,Gifts,Cash,4576.38,-11648.68
+2023-04-27 10:35:27,Expense,Shopping,Mobile Wallet,3445.66,-15094.34
+2023-09-15 06:50:49,Expense,Shopping,UPI,4465.02,-19559.36
+2023-04-05 10:04:42,Expense,Transport,UPI,1077.77,-20637.13
+2023-11-19 11:21:16,Expense,Health,Mobile Wallet,3619.97,-24257.1
+2023-10-02 19:17:22,Expense,Miscellaneous,UPI,4262.97,-28520.07
+2023-12-11 10:42:31,Income,Gifts,Bank to Bank,927.4,-27592.67
+2023-01-03 02:08:19,Income,Gifts,Mobile Wallet,1671.5,-25921.17
+2023-08-16 01:45:23,Income,Salary,Mobile Wallet,561.33,-25359.84
+2023-11-25 19:21:36,Income,Gifts,Bank to Bank,4744.81,-20615.03
+2023-02-22 01:47:44,Expense,Transport,Mobile Wallet,702.1,-21317.13
+2023-07-06 16:18:34,Expense,Travel,Mobile Wallet,2980.74,-24297.87
+2023-11-21 17:47:12,Income,Gifts,Other,4748.22,-19549.65
+2023-02-22 21:05:11,Expense,Entertainment,UPI,4608.84,-24158.49
+2023-08-09 04:34:34,Expense,Education,Debit Card,2514.26,-26672.75
+2023-04-20 21:46:38,Expense,Housing,Other,988.13,-27660.88
+2023-12-07 11:35:42,Income,Gifts,UPI,3888.23,-23772.65
+2023-12-03 02:22:27,Expense,Entertainment,Debit Card,3886.18,-27658.83
+2023-08-24 22:18:55,Expense,Health,Debit Card,1571.97,-29230.8
+2023-07-30 00:58:15,Expense,Miscellaneous,Credit Card,3995.64,-33226.44
+2023-11-18 06:17:44,Expense,Entertainment,Bank to Bank,2842.3,-36068.74
+2023-03-14 19:22:48,Expense,Housing,Cash,3005.29,-39074.03
+2023-06-06 20:54:28,Income,Rental Income,Bank to Bank,1929.85,-37144.18
+2023-08-25 06:26:56,Expense,Shopping,Bank to Bank,1186.79,-38330.97
+2023-01-28 17:40:48,Expense,Health,Bank to Bank,1663.68,-39994.65
+2023-06-02 22:20:19,Expense,Transport,Other,1061.25,-41055.9
+2023-08-08 05:49:34,Expense,Miscellaneous,Cash,2149.04,-43204.94
+2023-07-17 00:55:53,Expense,Transport,Credit Card,4265.04,-47469.98
+2023-06-14 18:59:02,Expense,Travel,Credit Card,2601.48,-50071.46
+2023-09-27 19:09:49,Income,Business Income,Cash,1815.61,-48255.85
+2023-12-07 10:19:28,Expense,Bills,UPI,4065.6,-52321.45
+2023-07-31 11:03:22,Expense,Health,Other,4847.56,-57169.01
+2023-06-02 05:15:56,Expense,Food,Credit Card,2706.51,-59875.52
+2023-12-15 04:19:49,Income,Business Income,Cash,2847.26,-57028.26
+2023-11-27 03:56:40,Expense,Food,Other,1507.52,-58535.78
+2023-11-30 15:52:27,Income,Freelance,Bank to Bank,559.23,-57976.55
+2023-02-12 17:50:36,Expense,Entertainment,Debit Card,533.25,-58509.8
+2023-12-05 03:31:29,Expense,Education,Debit Card,3807.1,-62316.9
+2023-07-03 19:49:57,Income,Investments,Cash,1391.05,-60925.85
+2023-09-22 10:00:30,Income,Other,UPI,2463.52,-58462.33
+2023-04-10 20:12:49,Income,Business Income,Other,2708.91,-55753.42
+2023-02-27 07:30:42,Expense,Food,Cash,3312.68,-59066.1
+2023-03-13 08:08:38,Income,Gifts,Other,3775.93,-55290.17
+2023-02-05 03:49:57,Income,Salary,Other,166.79,-55123.38
+2023-12-23 19:05:53,Income,Business Income,Credit Card,2585.32,-52538.06
+2023-07-25 15:31:15,Income,Rental Income,Mobile Wallet,114.87,-52423.19
+2024-01-30 11:55:31,Income,Business Income,Other,4339.88,-48083.31
+2023-12-11 04:20:47,Income,Business Income,Bank to Bank,4665.36,-43417.95
+2024-01-11 03:26:17,Income,Rental Income,Mobile Wallet,3476.76,-39941.19
+2023-09-27 06:29:34,Expense,Entertainment,Mobile Wallet,1812.87,-41754.06
+2023-03-13 08:35:48,Expense,Food,Bank to Bank,711.16,-42465.22
+2023-06-25 15:33:05,Expense,Bills,UPI,4230.95,-46696.17
+2023-12-07 23:02:46,Income,Freelance,Cash,2491.64,-44204.53
+2023-11-03 11:14:45,Income,Rental Income,Credit Card,2678.49,-41526.04
+2023-05-15 09:51:55,Income,Business Income,Other,1003.09,-40522.95
+2023-04-17 09:18:00,Income,Investments,UPI,3046.55,-37476.4
+2023-06-20 03:07:05,Expense,Transport,Credit Card,1649.52,-39125.92
+2023-02-04 07:58:34,Income,Business Income,UPI,702.88,-38423.04
+2023-04-10 10:48:11,Income,Gifts,Credit Card,1613.18,-36809.86
+2023-06-07 14:20:25,Income,Freelance,UPI,948.46,-35861.4
+2023-02-02 07:50:49,Income,Freelance,Bank to Bank,982.76,-34878.64
+2023-06-14 18:18:15,Expense,Housing,Bank to Bank,2159.51,-37038.15
+2023-01-09 05:40:56,Income,Other,Other,4996.01,-32042.14
+2023-07-14 15:18:21,Expense,Food,Other,872.05,-32914.19
+2023-11-12 23:54:49,Expense,Housing,Other,196.01,-33110.2
+2023-10-09 01:58:11,Income,Rental Income,Credit Card,3893.22,-29216.98
+2023-08-27 00:23:33,Income,Gifts,Mobile Wallet,4707.67,-24509.31
+2023-03-30 00:49:35,Expense,Health,Mobile Wallet,4854.56,-29363.87
+2023-07-28 07:23:42,Income,Business Income,Credit Card,4266.24,-25097.63
+2023-03-01 14:25:04,Expense,Miscellaneous,Credit Card,4425.1,-29522.73
+2023-07-11 21:24:58,Expense,Miscellaneous,Bank to Bank,1980.61,-31503.34
+2023-01-23 17:05:47,Income,Gifts,Other,4196.0,-27307.34
+2023-05-02 22:34:06,Income,Business Income,Debit Card,2872.0,-24435.34
+2023-08-12 23:00:39,Expense,Bills,Debit Card,4953.58,-29388.92
+2023-06-02 15:25:08,Expense,Bills,Mobile Wallet,3633.55,-33022.47
+2023-06-11 09:04:37,Income,Gifts,Debit Card,2188.1,-30834.37
+2023-07-27 08:42:25,Expense,Transport,Debit Card,4199.24,-35033.61
+2023-02-08 18:32:01,Expense,Shopping,Credit Card,2032.63,-37066.24
+2023-06-14 08:43:00,Expense,Education,Cash,2223.29,-39289.53
+2023-02-28 22:24:55,Expense,Entertainment,Other,369.58,-39659.11
+2023-05-07 13:23:50,Expense,Shopping,Credit Card,1088.64,-40747.75
+2023-07-05 00:48:02,Expense,Transport,Mobile Wallet,3804.28,-44552.03
+2023-08-15 19:50:18,Expense,Travel,Other,1294.88,-45846.91
+2023-06-14 12:14:15,Expense,Food,Bank to Bank,4316.05,-50162.96
+2023-12-10 18:06:41,Expense,Miscellaneous,Mobile Wallet,4177.03,-54339.99
+2023-12-29 04:45:31,Expense,Travel,Credit Card,1865.69,-56205.68
+2023-04-17 21:33:04,Income,Business Income,Mobile Wallet,4217.34,-51988.34
+2023-11-26 22:53:19,Expense,Housing,Cash,1951.46,-53939.8
+2024-01-06 03:03:44,Income,Gifts,Credit Card,406.01,-53533.79
+2023-10-16 13:37:17,Income,Rental Income,Other,954.69,-52579.1
+2023-01-17 20:26:59,Income,Salary,Mobile Wallet,3259.14,-49319.96
+2023-12-25 06:26:45,Expense,Housing,Cash,3193.35,-52513.31
+2023-03-01 08:20:09,Expense,Shopping,Debit Card,4973.26,-57486.57
+2024-01-20 05:38:19,Expense,Shopping,Credit Card,1276.48,-58763.05
+2024-01-12 21:25:03,Income,Other,Credit Card,3842.31,-54920.74
+2024-01-19 16:42:09,Income,Other,Bank to Bank,1115.58,-53805.16
+2023-06-23 22:01:21,Income,Investments,UPI,2799.59,-51005.57
+2023-02-06 14:34:28,Expense,Travel,UPI,1343.93,-52349.5
+2023-08-06 21:34:50,Expense,Bills,UPI,4917.21,-57266.71
+2023-10-26 22:32:38,Expense,Transport,Credit Card,1975.15,-59241.86
+2023-12-11 08:11:00,Income,Other,Other,3459.98,-55781.88
+2023-10-09 22:59:50,Income,Investments,UPI,1019.75,-54762.13
+2023-08-31 15:32:38,Expense,Miscellaneous,Other,274.84,-55036.97
+2023-10-11 11:18:53,Income,Rental Income,Bank to Bank,4069.79,-50967.18
+2023-02-22 19:11:54,Expense,Housing,Other,580.42,-51547.6
+2023-10-20 04:06:51,Income,Rental Income,UPI,1534.06,-50013.54
+2023-07-15 23:46:56,Expense,Shopping,Mobile Wallet,1196.52,-51210.06
+2023-10-02 08:00:28,Expense,Food,Bank to Bank,660.01,-51870.07
+2023-04-20 09:28:21,Income,Other,Cash,255.25,-51614.82
+2023-01-02 06:07:08,Expense,Food,Debit Card,4684.21,-56299.03
+2023-11-28 03:25:38,Income,Business Income,Other,505.6,-55793.43
+2023-09-11 11:05:14,Income,Freelance,Debit Card,2119.54,-53673.89
+2023-10-07 14:47:46,Expense,Shopping,UPI,4576.6,-58250.49
+2023-06-02 03:02:30,Income,Investments,Other,3512.04,-54738.45
+2023-04-19 01:04:40,Expense,Bills,UPI,526.14,-55264.59
+2023-03-20 08:45:26,Expense,Travel,Mobile Wallet,2183.99,-57448.58
+2023-01-08 10:13:33,Expense,Miscellaneous,Other,4592.91,-62041.49
+2023-06-11 17:15:59,Expense,Health,Debit Card,2082.53,-64124.02
+2023-03-18 10:46:31,Expense,Travel,Bank to Bank,1784.79,-65908.81
+2023-03-12 00:36:05,Income,Investments,Credit Card,1260.91,-64647.9
+2023-05-16 02:18:44,Income,Investments,Credit Card,1620.1,-63027.8
+2023-10-05 17:18:58,Expense,Housing,Debit Card,3014.49,-66042.29
+2023-02-27 21:28:12,Expense,Miscellaneous,Debit Card,4550.56,-70592.85
+2023-09-21 04:41:01,Income,Gifts,Cash,1053.51,-69539.34
+2024-01-19 23:07:42,Expense,Transport,Mobile Wallet,608.36,-70147.7
+2023-07-04 02:54:01,Income,Gifts,Bank to Bank,3596.41,-66551.29
+2024-01-26 08:40:26,Income,Freelance,Credit Card,2957.24,-63594.05
+2024-02-02 06:27:50,Income,Freelance,UPI,2379.78,-61214.27
+2023-12-22 05:30:00,Expense,Food,Bank to Bank,1651.78,-62866.05
+2023-12-19 01:13:50,Expense,Health,Cash,1333.62,-64199.67
+2023-07-20 13:17:58,Income,Other,Bank to Bank,857.72,-63341.95
+2023-01-23 17:54:13,Income,Investments,Credit Card,3960.51,-59381.44
+2023-12-10 09:57:57,Income,Investments,Credit Card,2460.03,-56921.41
+2023-02-19 19:07:47,Income,Gifts,Mobile Wallet,1925.07,-54996.34
+2023-09-28 16:23:21,Income,Gifts,Credit Card,4817.45,-50178.89
+2023-06-02 21:32:42,Income,Other,Other,908.41,-49270.48
+2023-03-18 03:17:15,Income,Gifts,Bank to Bank,4397.81,-44872.67
+2023-08-21 20:14:21,Expense,Entertainment,Cash,3682.8,-48555.47
+2023-03-29 21:04:10,Income,Other,Debit Card,456.27,-48099.2
+2023-09-19 23:28:55,Income,Business Income,Cash,667.07,-47432.13
+2023-10-29 03:21:49,Income,Freelance,Debit Card,3163.57,-44268.56
+2023-10-10 23:52:52,Income,Other,Credit Card,1381.33,-42887.23
+2023-08-30 12:40:40,Income,Salary,UPI,4821.98,-38065.25
+2023-05-31 05:32:11,Expense,Bills,Debit Card,606.58,-38671.83
+2024-01-14 07:57:10,Expense,Transport,UPI,2354.16,-41025.99
+2023-04-01 18:06:38,Expense,Bills,Cash,292.83,-41318.82
+2023-06-25 22:06:22,Income,Rental Income,Mobile Wallet,1947.18,-39371.64
+2023-01-16 00:10:54,Expense,Transport,Other,3407.29,-42778.93
+2023-12-01 02:06:32,Expense,Miscellaneous,Cash,3416.44,-46195.37
+2024-01-27 22:38:42,Income,Freelance,Other,3434.35,-42761.02
+2023-03-25 01:05:15,Expense,Health,Cash,4146.9,-46907.92
+2023-05-05 16:56:35,Income,Freelance,Mobile Wallet,4624.58,-42283.34
+2023-02-19 00:11:19,Income,Business Income,Debit Card,4492.1,-37791.24
+2023-06-06 04:09:28,Expense,Miscellaneous,UPI,265.81,-38057.05
+2023-09-18 23:06:26,Expense,Education,Mobile Wallet,3307.42,-41364.47
+2023-03-17 10:04:33,Income,Salary,UPI,858.44,-40506.03
+2023-03-27 11:56:10,Income,Investments,Bank to Bank,1173.96,-39332.07
+2023-12-26 14:21:59,Income,Salary,UPI,143.36,-39188.71
+2023-03-28 07:00:56,Income,Freelance,Cash,2619.88,-36568.83
+2023-02-01 09:07:03,Expense,Education,Mobile Wallet,4107.18,-40676.01
+2023-07-15 07:33:12,Expense,Transport,Other,823.69,-41499.7
+2023-02-23 00:16:28,Income,Freelance,Credit Card,1187.0,-40312.7
+2023-10-07 20:59:19,Expense,Food,Bank to Bank,3778.7,-44091.4
+2024-01-03 06:55:34,Income,Salary,Other,3229.26,-40862.14
+2023-05-05 06:00:54,Income,Gifts,Debit Card,2108.28,-38753.86
+2023-11-10 23:52:56,Expense,Travel,Cash,1685.15,-40439.01
+2023-10-08 10:56:19,Income,Rental Income,Bank to Bank,2798.72,-37640.29
+2023-10-14 01:03:56,Income,Rental Income,Cash,134.49,-37505.8
+2023-08-03 17:59:29,Income,Freelance,Mobile Wallet,1856.56,-35649.24
+2023-12-19 03:23:35,Expense,Travel,Bank to Bank,3785.94,-39435.18
+2023-08-21 02:26:48,Income,Other,Bank to Bank,214.83,-39220.35
+2023-06-27 01:50:35,Income,Rental Income,Debit Card,1529.8,-37690.55
+2023-05-31 16:58:55,Income,Gifts,Credit Card,1134.5,-36556.05
+2023-09-28 09:36:00,Expense,Food,Mobile Wallet,4216.76,-40772.81
+2023-07-17 15:35:53,Income,Rental Income,Mobile Wallet,2050.35,-38722.46
+2023-04-26 14:08:03,Expense,Health,Mobile Wallet,3392.16,-42114.62
+2023-12-02 22:49:00,Income,Investments,UPI,1710.25,-40404.37
+2023-07-07 13:06:18,Income,Rental Income,Cash,3831.39,-36572.98
+2024-01-14 20:18:24,Expense,Travel,UPI,970.64,-37543.62
+2023-06-12 05:15:42,Expense,Bills,Other,2515.06,-40058.68
+2023-03-18 11:09:16,Expense,Food,Mobile Wallet,2627.09,-42685.77
+2023-12-20 00:27:07,Income,Rental Income,Cash,537.25,-42148.52
+2023-03-05 01:56:25,Expense,Transport,Debit Card,2225.67,-44374.19
+2023-12-03 04:51:20,Expense,Transport,Credit Card,1960.13,-46334.32
+2023-08-16 04:16:08,Expense,Housing,Cash,2003.22,-48337.54
+2023-07-15 04:45:56,Expense,Transport,Other,1116.62,-49454.16
+2023-12-10 11:11:20,Expense,Shopping,Credit Card,1651.41,-51105.57
+2023-08-23 05:56:51,Expense,Entertainment,Cash,3514.41,-54619.98
+2023-11-20 19:10:18,Expense,Travel,Bank to Bank,2238.57,-56858.55
+2024-01-24 19:19:54,Expense,Education,Bank to Bank,3230.79,-60089.34
+2023-10-04 15:35:40,Expense,Entertainment,Debit Card,1547.98,-61637.32
+2023-11-17 09:31:32,Expense,Health,Debit Card,4853.74,-66491.06
+2023-10-03 20:15:39,Income,Rental Income,Cash,3209.59,-63281.47
+2023-09-09 14:40:57,Expense,Education,Debit Card,172.24,-63453.71
+2023-06-10 00:44:42,Income,Investments,Debit Card,2731.93,-60721.78
+2023-12-19 13:50:51,Expense,Miscellaneous,Mobile Wallet,4351.38,-65073.16
+2023-07-20 21:34:12,Expense,Miscellaneous,Cash,3719.49,-68792.65
+2023-01-05 17:03:36,Income,Business Income,Debit Card,4746.24,-64046.41
+2023-04-06 20:13:59,Income,Freelance,Cash,2456.05,-61590.36
+2023-12-30 05:29:09,Income,Gifts,Mobile Wallet,968.79,-60621.57
+2023-10-21 11:41:02,Expense,Health,Other,2286.8,-62908.37
+2023-09-24 10:03:55,Income,Investments,UPI,2432.74,-60475.63
+2023-02-20 00:01:57,Income,Rental Income,Bank to Bank,4624.22,-55851.41
+2024-01-24 17:27:50,Expense,Bills,Cash,4320.75,-60172.16
+2024-01-09 00:14:57,Income,Rental Income,UPI,644.8,-59527.36
+2024-01-02 16:55:59,Income,Salary,Debit Card,3782.67,-55744.69
+2023-08-09 12:50:54,Expense,Food,UPI,2457.72,-58202.41
+2023-11-28 22:36:39,Income,Salary,Credit Card,1342.96,-56859.45
+2023-10-12 05:50:41,Income,Gifts,Other,4371.37,-52488.08
+2023-07-02 07:27:35,Income,Gifts,Debit Card,2794.08,-49694.0
+2024-01-18 17:10:23,Income,Investments,Debit Card,4565.99,-45128.01
+2023-07-18 04:18:19,Income,Business Income,Debit Card,4018.34,-41109.67
+2023-01-12 02:07:31,Income,Gifts,Debit Card,2670.33,-38439.34
+2023-10-04 11:01:28,Income,Salary,Credit Card,2352.56,-36086.78
+2023-02-11 17:16:22,Income,Salary,Debit Card,1442.67,-34644.11
+2023-02-15 16:36:57,Income,Gifts,Other,3412.52,-31231.59
+2023-07-09 03:22:05,Expense,Bills,UPI,301.0,-31532.59
+2023-12-30 14:25:53,Expense,Entertainment,Credit Card,1099.53,-32632.12
+2023-07-28 09:49:54,Expense,Food,Credit Card,2820.21,-35452.33
+2023-01-26 23:15:16,Expense,Health,Cash,3641.53,-39093.86
+2024-01-09 01:04:38,Expense,Shopping,UPI,3310.36,-42404.22
+2023-11-28 06:08:30,Income,Business Income,Mobile Wallet,331.03,-42073.19
+2023-06-11 13:32:10,Expense,Shopping,Credit Card,1088.6,-43161.79
+2023-05-06 20:44:04,Income,Freelance,Mobile Wallet,4483.15,-38678.64
+2023-10-04 07:29:50,Income,Investments,Mobile Wallet,4616.41,-34062.23
+2023-01-27 21:51:29,Income,Rental Income,Other,4237.72,-29824.51
+2023-01-22 06:16:55,Expense,Travel,Bank to Bank,395.68,-30220.19
+2023-03-28 16:30:12,Income,Other,Credit Card,3788.94,-26431.25
+2023-06-03 05:17:11,Income,Salary,Bank to Bank,3900.95,-22530.3
+2023-05-22 02:14:37,Income,Rental Income,Other,1087.71,-21442.59
+2023-04-15 12:51:47,Income,Gifts,Other,144.15,-21298.44
+2023-08-16 07:28:54,Income,Freelance,Cash,2929.04,-18369.4
+2023-10-25 16:18:07,Expense,Shopping,UPI,4505.02,-22874.42
+2023-05-07 04:43:59,Expense,Travel,Mobile Wallet,4126.21,-27000.63
+2023-05-20 22:46:56,Expense,Entertainment,UPI,843.88,-27844.51
+2023-12-11 08:37:41,Income,Business Income,Bank to Bank,2898.2,-24946.31
+2023-02-11 12:46:19,Expense,Education,Credit Card,2749.43,-27695.74
+2023-09-05 18:34:57,Income,Business Income,Bank to Bank,3771.42,-23924.32
+2023-06-05 07:17:53,Expense,Shopping,Debit Card,3067.37,-26991.69
+2023-07-18 22:20:14,Income,Investments,Bank to Bank,231.94,-26759.75
+2023-11-04 13:28:14,Expense,Education,Bank to Bank,3633.68,-30393.43
+2023-06-18 15:14:15,Income,Rental Income,UPI,2284.92,-28108.51
+2023-04-02 17:43:17,Expense,Food,UPI,3998.8,-32107.31
+2023-09-24 21:21:21,Expense,Health,Credit Card,3499.36,-35606.67
+2023-06-20 17:45:10,Expense,Shopping,Bank to Bank,2127.49,-37734.16
+2024-01-02 05:40:45,Income,Rental Income,Other,3530.41,-34203.75
+2023-07-26 20:54:19,Expense,Transport,UPI,974.23,-35177.98
+2023-06-26 13:50:22,Expense,Transport,Credit Card,1886.38,-37064.36
+2023-08-15 16:23:16,Expense,Housing,Debit Card,448.99,-37513.35
+2023-04-16 15:53:51,Income,Business Income,Credit Card,2208.1,-35305.25
+2023-09-27 17:11:30,Income,Business Income,Bank to Bank,2467.57,-32837.68
+2023-02-18 22:09:51,Income,Investments,Credit Card,2529.68,-30308.0
+2023-11-22 01:26:03,Expense,Education,Other,1092.46,-31400.46
+2023-09-13 16:38:26,Income,Rental Income,UPI,4830.96,-26569.5
+2023-03-11 03:11:30,Expense,Transport,Other,450.19,-27019.69
+2023-01-23 11:16:35,Expense,Transport,UPI,3497.56,-30517.25
+2023-06-18 23:18:41,Expense,Bills,Cash,3964.84,-34482.09
+2023-09-20 20:45:55,Expense,Food,Credit Card,4565.14,-39047.23
+2023-12-17 01:36:47,Expense,Health,Debit Card,1900.76,-40947.99
+2024-01-11 14:35:38,Income,Rental Income,Cash,3643.3,-37304.69
+2023-08-04 10:43:53,Income,Salary,Cash,1029.67,-36275.02
+2023-05-27 09:12:36,Expense,Health,Mobile Wallet,1055.39,-37330.41
+2023-06-10 19:22:15,Income,Salary,Credit Card,3725.54,-33604.87
+2023-08-01 02:36:58,Income,Salary,Debit Card,1534.56,-32070.31
+2023-10-05 06:01:26,Income,Gifts,Credit Card,1519.57,-30550.74
+2023-09-29 00:33:33,Income,Other,Bank to Bank,3359.76,-27190.98
+2023-03-23 16:35:52,Expense,Miscellaneous,Bank to Bank,4098.45,-31289.43
+2023-05-31 07:52:38,Expense,Housing,Other,4247.42,-35536.85
+2023-03-24 14:04:05,Income,Investments,Bank to Bank,4118.03,-31418.82
+2023-12-05 17:18:47,Income,Freelance,Bank to Bank,4096.69,-27322.13
+2023-11-05 21:56:18,Expense,Bills,Credit Card,4303.93,-31626.06
+2023-03-06 13:57:24,Expense,Miscellaneous,Cash,924.4,-32550.46
+2024-01-05 04:40:11,Income,Salary,Credit Card,592.67,-31957.79
+2023-03-03 20:12:46,Expense,Entertainment,Debit Card,4268.36,-36226.15
+2023-01-06 20:41:05,Expense,Education,Other,4205.48,-40431.63
+2023-09-20 22:46:35,Income,Rental Income,UPI,4330.3,-36101.33
+2023-10-19 23:36:47,Expense,Food,Debit Card,2733.46,-38834.79
+2023-07-26 16:03:15,Expense,Bills,Cash,421.15,-39255.94
+2023-12-07 15:16:15,Expense,Miscellaneous,Cash,4019.36,-43275.3
+2023-05-03 22:12:45,Expense,Food,UPI,2267.37,-45542.67
+2023-03-02 19:15:03,Expense,Food,Cash,462.49,-46005.16
+2023-05-25 03:50:59,Expense,Entertainment,Credit Card,3122.96,-49128.12
+2023-07-15 18:16:17,Expense,Travel,Mobile Wallet,4263.1,-53391.22
+2023-12-01 02:57:24,Income,Investments,Bank to Bank,677.87,-52713.35
+2023-12-22 22:59:05,Expense,Education,UPI,441.42,-53154.77
+2023-05-03 21:25:42,Expense,Bills,Bank to Bank,1006.35,-54161.12
+2023-09-18 12:58:08,Income,Business Income,Debit Card,1684.13,-52476.99
+2023-08-31 07:18:05,Expense,Transport,Bank to Bank,112.98,-52589.97
+2023-03-29 08:51:56,Income,Salary,Cash,3599.15,-48990.82
+2023-03-01 08:39:11,Income,Freelance,UPI,2323.64,-46667.18
+2023-10-14 06:02:28,Income,Freelance,Other,2493.16,-44174.02
+2024-01-14 02:38:49,Income,Gifts,Cash,4526.93,-39647.09
+2023-08-10 05:49:15,Income,Freelance,Mobile Wallet,4907.75,-34739.34
+2023-07-24 21:52:18,Expense,Health,Debit Card,3211.62,-37950.96
+2024-01-14 03:48:16,Income,Salary,UPI,4136.16,-33814.8
+2023-06-09 14:31:45,Expense,Education,Debit Card,4085.78,-37900.58
+2023-01-11 19:45:33,Expense,Education,UPI,4375.51,-42276.09
+2023-11-25 20:04:53,Income,Rental Income,Cash,3988.74,-38287.35
+2023-05-17 09:32:01,Expense,Miscellaneous,Mobile Wallet,3065.49,-41352.84
+2023-02-13 17:15:31,Income,Business Income,Debit Card,802.21,-40550.63
+2023-05-02 02:06:42,Expense,Food,Bank to Bank,2020.22,-42570.85
+2023-06-04 10:17:35,Income,Other,Other,2301.31,-40269.54
+2024-01-01 13:27:24,Income,Salary,Other,4833.98,-35435.56
+2023-10-05 06:58:14,Income,Business Income,Mobile Wallet,1413.58,-34021.98
+2024-01-22 02:21:57,Expense,Travel,Cash,4950.22,-38972.2
+2023-02-12 03:21:54,Income,Other,Cash,3488.34,-35483.86
+2023-05-18 13:25:22,Expense,Entertainment,Other,3830.99,-39314.85
+2023-12-02 01:25:05,Income,Investments,UPI,292.96,-39021.89
+2023-10-27 10:55:29,Expense,Food,Debit Card,3897.51,-42919.4
+2023-09-21 22:10:54,Expense,Transport,Credit Card,2514.63,-45434.03
+2023-12-14 18:48:26,Expense,Travel,Credit Card,236.56,-45670.59
+2023-07-04 19:20:53,Expense,Miscellaneous,Mobile Wallet,1301.06,-46971.65
+2023-12-03 02:41:59,Income,Business Income,Mobile Wallet,586.1,-46385.55
+2023-06-21 06:48:59,Expense,Travel,Debit Card,4237.3,-50622.85
+2023-10-19 14:45:31,Expense,Bills,Cash,2498.37,-53121.22
+2023-09-19 19:04:28,Expense,Housing,Credit Card,1820.06,-54941.28
+2023-01-10 09:52:05,Income,Freelance,Other,2612.77,-52328.51
+2023-02-18 23:42:52,Income,Rental Income,Other,1171.69,-51156.82
+2023-04-17 17:36:14,Expense,Health,Debit Card,2010.83,-53167.65
+2023-09-29 04:14:04,Expense,Food,Debit Card,1663.07,-54830.72
+2023-09-27 23:54:01,Income,Other,Other,2803.87,-52026.85
+2023-07-09 23:06:15,Expense,Entertainment,Mobile Wallet,1271.06,-53297.91
+2023-02-11 11:51:17,Expense,Shopping,Mobile Wallet,1189.97,-54487.88
+2023-12-16 20:04:44,Expense,Travel,Cash,4824.58,-59312.46
+2023-09-17 02:57:22,Income,Business Income,Cash,3184.84,-56127.62
+2023-10-10 13:54:48,Income,Gifts,UPI,593.52,-55534.1
+2023-03-08 20:19:20,Expense,Bills,Other,2079.04,-57613.14
+2023-03-30 18:51:59,Income,Gifts,Other,4342.83,-53270.31
+2023-08-01 07:01:07,Income,Freelance,Cash,4193.76,-49076.55
+2023-07-29 23:55:31,Income,Rental Income,Bank to Bank,4229.83,-44846.72
+2023-10-19 16:01:49,Income,Business Income,Mobile Wallet,2521.22,-42325.5
+2023-09-30 11:17:50,Income,Gifts,Bank to Bank,847.99,-41477.51
+2023-02-23 00:22:33,Income,Rental Income,Mobile Wallet,1160.44,-40317.07
+2023-11-14 08:22:31,Income,Investments,Cash,4732.14,-35584.93
+2023-01-02 08:47:09,Expense,Bills,Mobile Wallet,4794.21,-40379.14
+2023-09-03 11:01:56,Expense,Housing,Debit Card,1953.29,-42332.43
+2023-02-25 07:40:46,Income,Investments,Cash,4709.21,-37623.22
+2023-04-24 02:32:32,Income,Business Income,Mobile Wallet,1717.92,-35905.3
+2024-01-27 17:48:24,Expense,Food,Debit Card,4205.16,-40110.46
+2023-07-05 19:00:15,Expense,Food,Mobile Wallet,372.88,-40483.34
+2023-12-10 22:40:47,Income,Business Income,UPI,3284.33,-37199.01
+2023-11-04 00:19:38,Expense,Shopping,UPI,1099.85,-38298.86
+2024-01-01 10:58:02,Expense,Health,UPI,2618.36,-40917.22
+2023-10-28 00:06:21,Expense,Miscellaneous,Debit Card,3376.36,-44293.58
+2023-05-22 03:03:59,Expense,Bills,Bank to Bank,1239.32,-45532.9
+2023-12-17 19:16:54,Expense,Education,Cash,4428.69,-49961.59
+2023-09-22 01:54:46,Expense,Transport,Bank to Bank,4399.47,-54361.06
+2024-01-30 03:01:15,Expense,Travel,Debit Card,134.66,-54495.72
+2023-03-20 18:35:04,Expense,Miscellaneous,Bank to Bank,2788.61,-57284.33
+2023-04-22 12:45:30,Income,Other,Bank to Bank,4079.75,-53204.58
+2023-09-06 01:40:48,Expense,Housing,UPI,4339.17,-57543.75
+2023-12-28 13:14:41,Expense,Food,UPI,1338.49,-58882.24
+2023-09-15 21:35:01,Income,Salary,Cash,3166.32,-55715.92
+2023-12-18 06:20:04,Expense,Miscellaneous,Other,1487.43,-57203.35
+2023-05-20 09:35:18,Income,Investments,UPI,2831.03,-54372.32
+2024-01-10 18:34:42,Income,Freelance,Other,2611.3,-51761.02
+2023-12-24 13:04:37,Income,Freelance,Cash,1160.04,-50600.98
+2023-11-10 12:11:39,Expense,Food,Debit Card,213.12,-50814.1
+2023-04-16 08:17:52,Income,Other,Mobile Wallet,3086.0,-47728.1
+2023-02-19 17:12:24,Expense,Travel,Other,1706.02,-49434.12
+2023-07-20 08:58:42,Income,Business Income,Mobile Wallet,4307.63,-45126.49
+2023-02-07 18:41:17,Income,Freelance,UPI,2632.74,-42493.75
+2023-10-16 01:07:49,Expense,Shopping,Mobile Wallet,3357.62,-45851.37
+2023-01-05 11:28:31,Income,Other,Bank to Bank,4565.4,-41285.97
+2023-09-01 08:59:08,Expense,Housing,Credit Card,3964.61,-45250.58
+2023-09-29 03:03:59,Expense,Entertainment,Other,2523.56,-47774.14
+2023-03-09 04:03:52,Income,Business Income,Bank to Bank,4036.5,-43737.64
+2024-01-21 12:53:50,Income,Business Income,Debit Card,1639.46,-42098.18
+2023-09-25 08:08:10,Income,Rental Income,UPI,3884.69,-38213.49
+2023-11-29 23:17:51,Income,Gifts,Debit Card,3559.24,-34654.25
+2023-11-11 11:13:45,Income,Salary,Cash,3162.09,-31492.16
+2023-05-12 16:08:20,Income,Rental Income,Bank to Bank,1391.08,-30101.08
+2023-03-17 01:47:15,Income,Freelance,Cash,4843.08,-25258.0
+2023-08-18 17:25:19,Expense,Food,Debit Card,3783.34,-29041.34
+2023-06-02 01:42:41,Expense,Health,Cash,2546.63,-31587.97
+2023-10-28 02:27:27,Expense,Education,Other,3446.58,-35034.55
+2023-10-23 03:13:32,Income,Salary,Credit Card,3148.82,-31885.73
+2023-01-30 16:02:02,Expense,Travel,Credit Card,4093.36,-35979.09
+2023-06-15 04:13:37,Expense,Health,Cash,4081.29,-40060.38
+2023-12-31 16:37:21,Income,Business Income,Bank to Bank,2636.47,-37423.91
+2023-12-16 14:45:55,Income,Other,Credit Card,4939.99,-32483.92
+2023-05-18 03:24:37,Income,Investments,Mobile Wallet,554.01,-31929.91
+2023-11-23 09:26:57,Expense,Food,Mobile Wallet,4095.72,-36025.63
+2023-05-26 04:06:56,Expense,Travel,Credit Card,149.05,-36174.68
+2023-03-30 07:18:59,Income,Other,UPI,1984.46,-34190.22
+2023-12-07 19:41:50,Expense,Education,Credit Card,4146.16,-38336.38
+2024-01-21 03:02:05,Expense,Food,Other,1833.97,-40170.35
+2023-10-12 13:02:41,Expense,Food,Credit Card,4934.77,-45105.12
+2023-08-10 20:01:57,Expense,Shopping,Mobile Wallet,3843.26,-48948.38
+2023-11-15 04:29:34,Expense,Housing,Debit Card,4106.83,-53055.21
+2023-11-18 05:14:21,Income,Business Income,Credit Card,2198.85,-50856.36
+2023-11-06 00:17:32,Expense,Transport,UPI,3930.05,-54786.41
+2023-09-10 11:36:11,Expense,Shopping,Credit Card,263.34,-55049.75
+2023-11-14 18:15:42,Expense,Food,Debit Card,511.18,-55560.93
+2023-08-05 02:11:17,Income,Salary,Other,4756.4,-50804.53
+2023-01-24 10:02:00,Expense,Bills,Other,2794.56,-53599.09
+2023-03-28 19:04:33,Income,Salary,Other,2218.48,-51380.61
+2023-09-26 11:42:55,Expense,Bills,UPI,4191.19,-55571.8
+2023-09-16 11:37:34,Expense,Travel,Credit Card,1759.26,-57331.06
+2023-10-30 21:11:17,Expense,Shopping,Mobile Wallet,3117.34,-60448.4
+2023-02-26 05:39:56,Income,Investments,Debit Card,1249.46,-59198.94
+2023-08-05 11:11:00,Income,Gifts,UPI,4262.4,-54936.54
+2023-09-19 18:30:08,Expense,Travel,Bank to Bank,1851.89,-56788.43
+2023-04-27 16:05:03,Expense,Shopping,Bank to Bank,1962.87,-58751.3
+2023-02-04 13:21:41,Income,Salary,Bank to Bank,2227.82,-56523.48
+2023-05-04 14:26:25,Income,Rental Income,Credit Card,3008.97,-53514.51
+2023-04-03 06:42:55,Expense,Transport,Cash,1828.55,-55343.06
+2023-12-12 23:24:18,Income,Salary,Mobile Wallet,4230.19,-51112.87
+2023-08-20 15:16:34,Income,Gifts,Bank to Bank,2834.2,-48278.67
+2023-10-11 23:20:56,Income,Investments,Debit Card,2775.6,-45503.07
+2023-10-16 23:51:17,Expense,Miscellaneous,Debit Card,4131.59,-49634.66
+2023-02-13 23:42:27,Expense,Transport,Debit Card,2928.94,-52563.6
+2023-07-26 11:27:37,Income,Other,Cash,3152.53,-49411.07
+2023-12-07 22:41:24,Income,Salary,Debit Card,3264.05,-46147.02
+2023-02-20 18:40:37,Income,Gifts,Debit Card,1435.47,-44711.55
+2023-03-04 18:44:00,Expense,Education,Bank to Bank,986.61,-45698.16
+2023-02-08 12:15:44,Income,Business Income,Mobile Wallet,4501.97,-41196.19
+2023-07-16 01:48:33,Income,Investments,Debit Card,3614.43,-37581.76
+2023-06-09 00:12:27,Expense,Health,Cash,2675.0,-40256.76
+2023-09-22 05:05:46,Income,Business Income,UPI,3120.22,-37136.54
+2023-05-19 17:46:00,Income,Gifts,Bank to Bank,4835.48,-32301.06
+2023-06-09 23:22:13,Income,Rental Income,Other,4173.81,-28127.25
+2023-10-12 12:43:40,Income,Salary,Bank to Bank,2497.75,-25629.5
+2023-01-24 01:24:29,Income,Other,Cash,479.94,-25149.56
+2023-09-17 03:37:53,Expense,Travel,UPI,2783.83,-27933.39
+2023-09-05 18:35:45,Expense,Education,UPI,548.58,-28481.97
+2023-02-18 10:20:22,Income,Investments,UPI,915.37,-27566.6
+2023-06-25 14:11:26,Income,Salary,Cash,2174.87,-25391.73
+2023-01-18 15:58:00,Income,Other,Debit Card,1676.14,-23715.59
+2023-02-23 04:02:54,Income,Rental Income,Debit Card,2790.14,-20925.45
+2023-01-13 17:50:32,Expense,Entertainment,Bank to Bank,4793.36,-25718.81
+2023-11-09 08:27:39,Income,Other,Bank to Bank,4759.29,-20959.52
+2023-06-14 00:24:23,Expense,Miscellaneous,Cash,3340.77,-24300.29
+2023-12-30 17:40:05,Expense,Travel,UPI,623.68,-24923.97
+2023-05-06 19:42:38,Expense,Food,Debit Card,441.6,-25365.57
+2023-03-16 09:28:34,Expense,Transport,Debit Card,1829.26,-27194.83
+2023-04-06 09:14:38,Income,Investments,UPI,1434.45,-25760.38
+2023-04-05 22:02:22,Income,Rental Income,Debit Card,2829.4,-22930.98
+2023-02-26 13:13:57,Income,Rental Income,Debit Card,897.41,-22033.57
+2023-04-13 10:59:26,Income,Investments,Debit Card,4641.69,-17391.88
+2023-06-04 17:57:35,Income,Business Income,Debit Card,661.18,-16730.7
+2023-06-07 20:48:18,Income,Salary,Debit Card,2163.63,-14567.07
+2024-02-05 02:32:53,Income,Salary,Bank to Bank,4817.83,-9749.24
+2023-02-03 11:04:06,Expense,Travel,Debit Card,1058.58,-10807.82
+2023-08-14 02:24:23,Income,Investments,Mobile Wallet,1824.54,-8983.28
+2023-01-29 08:48:18,Expense,Travel,Debit Card,2346.81,-11330.09
+2023-05-25 01:28:33,Expense,Food,Credit Card,3250.34,-14580.43
+2023-06-27 18:23:20,Expense,Transport,Credit Card,4152.1,-18732.53
+2023-04-24 14:05:49,Income,Other,Cash,4389.94,-14342.59
+2023-10-09 00:34:55,Income,Gifts,Bank to Bank,3012.45,-11330.14
+2023-02-06 18:03:53,Expense,Health,UPI,251.94,-11582.08
+2023-11-26 04:57:03,Expense,Education,Debit Card,935.31,-12517.39
+2023-04-25 09:23:34,Expense,Housing,Other,440.72,-12958.11
+2023-08-27 19:07:25,Income,Business Income,Bank to Bank,4075.11,-8883.0
+2023-09-22 08:54:33,Income,Other,UPI,1125.29,-7757.71
+2023-07-15 17:02:18,Expense,Education,UPI,1460.82,-9218.53
+2023-01-25 01:28:06,Income,Business Income,Mobile Wallet,3432.06,-5786.47
+2023-02-22 10:50:27,Income,Freelance,Bank to Bank,468.82,-5317.65
+2023-08-12 13:35:09,Expense,Travel,Mobile Wallet,682.84,-6000.49
+2023-05-17 01:32:25,Expense,Travel,Credit Card,3313.79,-9314.28
+2023-08-10 06:44:04,Expense,Entertainment,Credit Card,3538.31,-12852.59
+2023-01-16 04:29:25,Income,Other,Credit Card,3183.8,-9668.79
+2023-02-20 07:02:23,Income,Freelance,UPI,4665.88,-5002.91
+2023-09-30 15:46:05,Expense,Transport,Mobile Wallet,4822.66,-9825.57
+2023-01-14 08:22:00,Income,Salary,Other,3191.32,-6634.25
+2023-04-21 06:43:54,Income,Freelance,Mobile Wallet,4926.29,-1707.96
+2023-03-13 01:46:22,Income,Rental Income,Bank to Bank,3978.83,2270.87
+2023-07-25 17:17:46,Expense,Food,Debit Card,566.58,1704.29
+2023-08-01 13:18:47,Income,Gifts,Other,1491.12,3195.41
+2023-06-27 14:15:18,Income,Investments,UPI,2462.68,5658.09
+2023-06-12 21:48:40,Income,Freelance,Other,1922.75,7580.84
+2023-03-22 23:08:46,Income,Investments,Credit Card,4055.23,11636.07
+2023-07-30 20:39:14,Expense,Health,Cash,4549.48,7086.59
+2023-08-07 19:20:41,Income,Business Income,Credit Card,1340.39,8426.98
+2023-06-16 07:14:11,Expense,Food,Bank to Bank,4365.97,4061.01
+2023-03-02 23:09:56,Income,Rental Income,Other,3346.97,7407.98
+2023-05-06 03:59:50,Income,Other,Other,2502.47,9910.45
+2023-01-15 11:20:36,Expense,Travel,Bank to Bank,2207.53,7702.92
+2023-11-23 06:06:37,Income,Investments,Bank to Bank,2305.82,10008.74
+2023-11-19 19:05:02,Income,Freelance,Mobile Wallet,3907.15,13915.89
+2023-05-18 06:52:06,Expense,Housing,Cash,4131.42,9784.47
+2023-10-02 23:19:41,Expense,Food,Other,4227.4,5557.07
+2023-05-16 19:20:12,Expense,Shopping,Mobile Wallet,296.09,5260.98
+2023-04-08 14:48:41,Income,Business Income,Debit Card,2711.87,7972.85
+2023-04-18 18:19:13,Income,Investments,Other,1739.68,9712.53
+2023-10-24 20:17:42,Expense,Transport,Mobile Wallet,401.64,9310.89
+2023-11-12 22:53:57,Expense,Housing,Credit Card,336.11,8974.78
+2024-01-07 12:59:00,Expense,Food,Mobile Wallet,1842.71,7132.07
+2023-04-28 03:59:07,Income,Rental Income,Debit Card,810.53,7942.6
+2023-01-22 19:52:06,Income,Gifts,Bank to Bank,4711.78,12654.38
+2023-12-25 06:12:29,Income,Rental Income,Bank to Bank,2764.93,15419.31
+2023-05-18 19:54:21,Expense,Housing,Cash,3395.67,12023.64
+2023-01-20 13:36:33,Expense,Food,Bank to Bank,2916.0,9107.64
+2023-02-05 07:45:38,Expense,Shopping,UPI,4948.29,4159.35
+2023-10-19 03:11:19,Expense,Food,Debit Card,979.85,3179.5
+2023-10-18 12:37:05,Expense,Bills,Mobile Wallet,1800.68,1378.82
+2023-12-17 03:34:19,Income,Freelance,Credit Card,1165.4,2544.22
+2023-12-26 06:52:36,Income,Investments,Other,4287.98,6832.2
+2023-08-05 12:04:39,Income,Rental Income,Debit Card,512.79,7344.99
+2023-05-12 03:04:14,Expense,Bills,Other,4647.56,2697.43
+2023-05-11 05:22:00,Expense,Shopping,Bank to Bank,4397.91,-1700.48
+2023-05-18 08:45:02,Expense,Bills,UPI,273.28,-1973.76
+2023-10-17 17:49:56,Income,Freelance,Cash,2066.42,92.66
+2024-01-07 16:54:59,Expense,Health,UPI,1426.88,-1334.22
+2023-11-03 12:53:43,Expense,Shopping,Cash,933.08,-2267.3
+2024-01-20 19:23:37,Expense,Health,Other,1577.32,-3844.62
+2023-02-15 00:52:41,Expense,Health,Cash,3361.14,-7205.76
+2023-02-28 02:19:55,Income,Business Income,Mobile Wallet,225.91,-6979.85
+2023-07-18 13:40:03,Expense,Transport,UPI,3194.57,-10174.42
+2023-01-09 15:50:36,Income,Investments,Debit Card,1836.85,-8337.57
+2024-02-05 02:16:47,Income,Business Income,Debit Card,4637.18,-3700.39
+2023-01-26 21:20:51,Expense,Education,Credit Card,271.63,-3972.02
+2023-04-01 05:59:19,Income,Freelance,Credit Card,2910.07,-1061.95
+2023-08-24 18:03:46,Income,Freelance,Other,4575.74,3513.79
+2023-10-06 04:42:49,Expense,Shopping,Cash,1809.92,1703.87
+2023-12-23 07:57:00,Income,Salary,UPI,3977.71,5681.58
+2023-04-15 11:39:40,Income,Gifts,Debit Card,4288.15,9969.73
+2023-09-14 16:48:00,Income,Gifts,Mobile Wallet,4016.49,13986.22
+2023-04-09 22:12:38,Expense,Transport,Cash,2540.8,11445.42
+2023-09-03 18:04:07,Expense,Food,UPI,732.68,10712.74
+2024-01-31 16:49:26,Income,Investments,UPI,2880.44,13593.18
+2023-09-10 06:04:42,Expense,Entertainment,Other,4187.83,9405.35
+2023-12-19 19:35:36,Expense,Shopping,UPI,783.52,8621.83
+2023-06-15 00:09:25,Income,Investments,UPI,530.77,9152.6
+2023-07-21 01:49:34,Income,Salary,UPI,3733.21,12885.81
+2023-12-07 07:39:36,Income,Rental Income,Debit Card,2196.18,15081.99
+2023-05-31 08:42:44,Expense,Miscellaneous,Other,3762.09,11319.9
+2023-09-22 03:43:56,Expense,Transport,Mobile Wallet,3629.41,7690.49
+2023-07-06 20:09:46,Expense,Health,Cash,4462.48,3228.01
+2023-09-02 16:07:53,Expense,Miscellaneous,Debit Card,1987.44,1240.57
+2023-08-09 15:38:23,Expense,Miscellaneous,Credit Card,2749.48,-1508.91
+2023-01-03 05:18:21,Income,Business Income,UPI,1555.29,46.38
+2023-05-01 11:06:07,Expense,Bills,UPI,2449.06,-2402.68
+2023-01-22 02:04:43,Expense,Education,Bank to Bank,2671.12,-5073.8
+2023-11-26 16:15:39,Income,Rental Income,UPI,4222.75,-851.05
+2023-08-20 15:37:59,Expense,Shopping,Credit Card,1365.69,-2216.74
+2023-05-25 12:47:14,Income,Investments,Other,243.31,-1973.43
+2023-05-14 04:13:09,Expense,Travel,Debit Card,3875.68,-5849.11
+2023-09-07 18:53:34,Income,Business Income,Cash,3956.39,-1892.72
+2024-01-05 16:50:07,Income,Rental Income,Credit Card,2235.68,342.96
+2023-11-21 04:06:58,Income,Business Income,Mobile Wallet,3055.54,3398.5
+2023-09-10 20:36:56,Expense,Housing,Credit Card,234.24,3164.26
+2023-04-18 23:43:55,Expense,Miscellaneous,UPI,3485.6,-321.34
+2023-12-31 06:41:57,Income,Investments,Cash,2961.9,2640.56
+2023-12-28 20:31:24,Income,Business Income,Other,4909.61,7550.17
+2023-04-26 02:14:09,Expense,Entertainment,Debit Card,3546.65,4003.52
+2023-12-16 19:37:12,Income,Business Income,Cash,2562.75,6566.27
+2023-11-18 07:53:22,Income,Business Income,Mobile Wallet,3169.1,9735.37
+2023-02-13 14:08:35,Expense,Travel,Mobile Wallet,868.09,8867.28
+2024-01-25 08:43:14,Income,Freelance,Bank to Bank,144.01,9011.29
+2023-03-30 22:57:38,Expense,Transport,Debit Card,3465.0,5546.29
+2023-01-16 04:06:24,Expense,Housing,Debit Card,125.85,5420.44
+2023-04-16 02:20:18,Expense,Shopping,Credit Card,348.53,5071.91
+2023-12-01 11:51:47,Expense,Travel,Credit Card,1323.86,3748.05
+2023-08-14 14:46:29,Expense,Shopping,Credit Card,4500.47,-752.42
+2023-02-19 12:04:42,Expense,Health,Mobile Wallet,3469.8,-4222.22
+2024-01-29 01:04:25,Expense,Food,Cash,3776.24,-7998.46
+2023-04-14 07:30:41,Income,Freelance,Other,4175.2,-3823.26
+2023-11-27 02:40:23,Expense,Entertainment,Debit Card,749.36,-4572.62
+2023-08-10 17:28:17,Income,Other,Credit Card,3519.96,-1052.66
+2023-06-27 22:12:57,Expense,Education,UPI,279.39,-1332.05
+2023-11-25 22:59:15,Expense,Food,Debit Card,1584.17,-2916.22
+2023-05-20 05:33:08,Expense,Entertainment,Bank to Bank,3773.14,-6689.36
+2023-06-02 08:34:05,Expense,Bills,UPI,110.04,-6799.4
+2023-05-29 04:58:21,Income,Other,Mobile Wallet,3851.7,-2947.7
+2023-07-15 18:32:29,Income,Gifts,Cash,230.55,-2717.15
+2023-03-09 01:53:11,Expense,Food,Bank to Bank,1917.0,-4634.15
+2024-01-21 01:24:29,Income,Gifts,Debit Card,3411.65,-1222.5
+2023-01-18 21:45:30,Expense,Travel,Cash,3947.56,-5170.06
+2023-04-24 02:07:03,Income,Investments,Cash,4572.47,-597.59
+2023-08-17 23:56:39,Income,Salary,UPI,2833.59,2236.0
+2023-08-10 17:34:29,Income,Gifts,Bank to Bank,740.91,2976.91
+2023-09-08 22:56:26,Income,Other,Bank to Bank,4935.43,7912.34
+2023-11-08 22:52:35,Income,Freelance,UPI,4379.86,12292.2
+2023-10-20 14:14:43,Income,Rental Income,Bank to Bank,4042.34,16334.54
+2024-01-01 11:56:27,Income,Business Income,Mobile Wallet,1317.16,17651.7
+2023-05-25 12:11:50,Income,Freelance,Cash,3941.11,21592.81
+2023-12-14 10:54:43,Expense,Travel,Bank to Bank,2293.15,19299.66
+2023-02-05 23:22:27,Income,Gifts,Other,3858.38,23158.04
+2023-11-16 12:02:05,Income,Investments,Mobile Wallet,495.51,23653.55
+2023-01-16 06:07:55,Expense,Miscellaneous,Cash,2215.81,21437.74
+2023-05-15 10:37:59,Expense,Health,Cash,2047.31,19390.43
+2023-05-26 12:33:52,Expense,Food,Other,4784.23,14606.2
+2023-07-29 06:26:42,Income,Salary,Cash,2983.16,17589.36
+2023-07-23 19:50:49,Income,Gifts,Other,2655.3,20244.66
+2023-03-11 20:45:19,Expense,Housing,Other,592.39,19652.27
+2023-05-31 02:12:34,Income,Business Income,Bank to Bank,1776.89,21429.16
+2023-06-09 10:12:13,Expense,Transport,Other,4155.3,17273.86
+2024-01-08 23:46:51,Expense,Transport,UPI,2136.66,15137.2
+2023-05-22 08:53:26,Income,Gifts,UPI,3545.77,18682.97
+2023-04-18 10:15:17,Income,Salary,Credit Card,901.87,19584.84
+2023-06-09 10:49:11,Income,Salary,Bank to Bank,4150.45,23735.29
+2023-04-25 22:48:17,Income,Salary,Other,2452.57,26187.86
+2023-05-16 03:53:59,Income,Salary,Mobile Wallet,4246.91,30434.77
+2023-12-20 17:21:00,Income,Gifts,Credit Card,4873.38,35308.15
+2023-11-09 12:13:28,Expense,Housing,Cash,4152.16,31155.99
+2023-02-02 05:40:57,Expense,Food,Cash,2850.21,28305.78
+2023-02-06 00:54:19,Income,Gifts,Bank to Bank,4852.95,33158.73
+2023-02-11 03:55:45,Expense,Bills,Mobile Wallet,1332.54,31826.19
+2023-04-04 18:54:13,Expense,Education,Cash,445.38,31380.81
+2023-04-01 06:07:00,Expense,Housing,Other,2528.61,28852.2
+2023-07-13 23:24:47,Expense,Housing,Bank to Bank,699.56,28152.64
+2023-09-01 15:22:27,Expense,Travel,Bank to Bank,3839.99,24312.65
+2023-02-21 01:40:04,Income,Salary,Debit Card,4678.05,28990.7
+2023-12-04 02:09:58,Income,Other,Cash,2315.42,31306.12
+2023-08-19 07:27:19,Expense,Shopping,Credit Card,2761.14,28544.98
+2023-11-11 02:12:29,Income,Other,Credit Card,4085.62,32630.6
+2023-02-25 13:53:44,Expense,Housing,UPI,1867.06,30763.54
+2023-09-12 09:32:52,Expense,Food,UPI,1943.28,28820.26
+2023-07-12 21:32:39,Income,Business Income,Other,2016.78,30837.04
+2023-12-15 00:51:48,Income,Rental Income,Bank to Bank,2196.22,33033.26
+2023-04-10 01:41:51,Income,Freelance,Mobile Wallet,2033.11,35066.37
+2023-02-06 06:41:56,Expense,Health,Cash,2675.97,32390.4
+2023-02-28 00:42:00,Income,Business Income,Mobile Wallet,840.8,33231.2
+2023-12-31 12:25:05,Expense,Miscellaneous,Credit Card,1133.21,32097.99
+2023-12-28 20:07:17,Income,Salary,Other,4262.31,36360.3
+2023-09-29 05:32:51,Expense,Health,Other,2370.36,33989.94
+2023-04-03 20:49:37,Expense,Housing,Debit Card,4276.68,29713.26
+2023-07-29 20:58:20,Expense,Travel,UPI,3435.11,26278.15
+2023-08-28 00:26:18,Expense,Shopping,Cash,1287.32,24990.83
+2023-04-20 08:09:54,Expense,Health,Cash,4335.74,20655.09
+2024-02-04 22:29:25,Expense,Health,UPI,3128.31,17526.78
+2023-02-13 06:54:47,Income,Salary,Credit Card,2850.17,20376.95
+2023-09-05 01:21:43,Income,Rental Income,Mobile Wallet,318.32,20695.27
+2023-01-01 22:06:16,Expense,Bills,Mobile Wallet,3624.69,17070.58
+2023-06-02 02:09:26,Expense,Travel,Bank to Bank,685.34,16385.24
+2023-04-05 15:56:16,Expense,Entertainment,Bank to Bank,2391.68,13993.56
+2023-11-06 11:53:27,Expense,Miscellaneous,Debit Card,4970.57,9022.99
+2023-01-10 08:33:50,Income,Investments,UPI,2896.89,11919.88
+2023-12-28 05:03:41,Expense,Housing,Bank to Bank,1008.36,10911.52
+2024-01-14 17:10:57,Expense,Shopping,Bank to Bank,2359.86,8551.66
+2023-06-14 08:50:59,Expense,Education,Debit Card,2615.35,5936.31
+2023-07-28 11:11:05,Income,Other,Cash,1623.04,7559.35
+2023-01-18 02:24:55,Income,Freelance,UPI,3550.94,11110.29
+2024-01-23 00:23:17,Expense,Transport,UPI,1542.75,9567.54
+2023-05-06 00:16:33,Expense,Bills,Bank to Bank,1871.09,7696.45
+2023-08-10 05:36:52,Expense,Health,Cash,1709.56,5986.89
+2023-01-02 16:02:17,Income,Other,Debit Card,2380.5,8367.39
+2024-01-06 02:04:48,Income,Freelance,Debit Card,987.48,9354.87
+2023-09-10 21:46:31,Income,Salary,Mobile Wallet,3351.17,12706.04
+2023-07-05 16:05:24,Expense,Shopping,Debit Card,2185.49,10520.55
+2023-02-22 19:36:40,Expense,Miscellaneous,Other,647.8,9872.75
+2023-01-19 09:16:12,Income,Gifts,UPI,1916.65,11789.4
+2023-12-24 11:42:47,Income,Salary,Debit Card,1939.12,13728.52
+2023-02-07 22:28:57,Expense,Entertainment,Debit Card,1066.25,12662.27
+2023-12-20 00:34:16,Income,Other,Other,2482.37,15144.64
+2023-07-23 11:23:15,Expense,Bills,Mobile Wallet,2540.15,12604.49
+2023-12-29 08:59:03,Expense,Entertainment,Mobile Wallet,2798.54,9805.95
+2023-03-04 03:01:09,Income,Freelance,Credit Card,1109.03,10914.98
+2023-05-04 02:33:42,Income,Rental Income,Mobile Wallet,1389.28,12304.26
+2023-03-09 22:05:54,Expense,Entertainment,Credit Card,4080.98,8223.28
+2023-09-22 10:22:39,Expense,Food,Cash,191.81,8031.47
+2023-04-23 04:45:09,Income,Gifts,Mobile Wallet,891.34,8922.81
+2023-06-06 23:29:07,Expense,Education,Other,4542.75,4380.06
+2023-12-28 00:50:21,Income,Investments,UPI,2146.8,6526.86
+2023-11-27 10:38:19,Expense,Education,Mobile Wallet,4820.41,1706.45
+2023-06-11 03:10:35,Income,Business Income,Bank to Bank,489.76,2196.21
+2024-01-29 05:37:47,Income,Rental Income,Other,3420.5,5616.71
+2023-11-29 17:08:45,Expense,Shopping,Bank to Bank,4326.8,1289.91
+2023-11-20 13:16:18,Income,Freelance,Other,152.84,1442.75
+2023-05-15 22:50:06,Income,Salary,Bank to Bank,1305.55,2748.3
+2023-11-08 14:22:52,Expense,Entertainment,Mobile Wallet,506.13,2242.17
+2023-02-20 21:30:34,Expense,Entertainment,Debit Card,1828.93,413.24
+2023-02-22 16:56:46,Income,Salary,UPI,4279.89,4693.13
+2024-01-25 20:18:01,Income,Other,Debit Card,4676.97,9370.1
+2023-12-07 09:13:18,Expense,Food,Cash,2060.33,7309.77
+2023-01-23 09:21:37,Income,Business Income,Debit Card,1909.37,9219.14
+2023-07-26 12:37:37,Income,Gifts,Bank to Bank,3561.8,12780.94
+2023-10-22 17:34:58,Income,Rental Income,Mobile Wallet,4529.37,17310.31
+2023-11-27 12:36:17,Expense,Bills,Credit Card,589.36,16720.95
+2023-09-15 13:49:51,Expense,Bills,Mobile Wallet,4341.71,12379.24
+2023-07-04 04:55:10,Income,Other,Cash,4615.31,16994.55
+2023-04-18 23:08:13,Expense,Housing,UPI,4729.18,12265.37
+2023-11-21 10:40:38,Income,Business Income,UPI,3112.21,15377.58
+2023-09-23 15:57:24,Expense,Housing,Debit Card,4136.87,11240.71
+2023-09-18 10:25:38,Income,Business Income,Cash,3564.68,14805.39
+2023-01-08 08:30:15,Income,Other,Mobile Wallet,3210.04,18015.43
+2023-09-03 01:16:29,Income,Business Income,Mobile Wallet,4636.55,22651.98
+2023-12-27 04:36:23,Expense,Entertainment,Credit Card,3818.22,18833.76
+2023-11-26 18:29:35,Expense,Health,Bank to Bank,500.68,18333.08
+2023-05-16 08:23:48,Income,Other,UPI,2596.62,20929.7
+2023-01-10 21:47:40,Expense,Shopping,Bank to Bank,1617.61,19312.09
+2023-12-07 22:24:22,Income,Other,Mobile Wallet,3765.21,23077.3
+2023-10-30 22:22:20,Expense,Food,Mobile Wallet,498.89,22578.41
+2023-01-13 19:32:18,Expense,Food,Other,3521.27,19057.14
+2023-02-17 19:24:16,Income,Other,Debit Card,2188.81,21245.95
+2023-11-12 19:51:52,Expense,Health,Other,3942.12,17303.83
+2023-09-21 18:31:10,Expense,Travel,Mobile Wallet,4743.36,12560.47
+2023-10-02 17:29:19,Expense,Travel,Credit Card,3636.43,8924.04
+2023-07-09 21:09:20,Expense,Education,Bank to Bank,3947.75,4976.29
+2023-08-29 08:15:27,Income,Freelance,Bank to Bank,2070.2,7046.49
+2023-04-09 17:18:07,Income,Business Income,Mobile Wallet,1160.92,8207.41
+2023-07-19 07:03:05,Income,Business Income,Bank to Bank,2199.39,10406.8
+2023-03-12 09:58:27,Expense,Transport,Other,2070.47,8336.33
+2023-02-23 07:08:45,Expense,Bills,UPI,1334.76,7001.57
+2023-01-08 20:47:02,Expense,Travel,Credit Card,214.75,6786.82
+2024-01-22 15:00:52,Income,Rental Income,UPI,2897.21,9684.03
+2023-04-12 03:46:09,Expense,Food,Credit Card,4979.3,4704.73
+2023-03-23 14:24:25,Expense,Shopping,Debit Card,4227.87,476.86
+2023-07-08 01:12:49,Income,Freelance,Cash,886.54,1363.4
+2023-07-17 14:18:48,Income,Investments,UPI,1228.04,2591.44
+2023-10-12 08:54:09,Income,Business Income,Cash,2991.5,5582.94
+2023-02-03 22:13:25,Income,Rental Income,Debit Card,1092.07,6675.01
+2023-12-28 06:37:09,Expense,Entertainment,Debit Card,1732.7,4942.31
+2023-05-09 21:15:42,Expense,Shopping,Mobile Wallet,2623.89,2318.42
+2023-07-02 09:58:19,Income,Gifts,Mobile Wallet,3681.67,6000.09
+2023-09-27 22:44:40,Expense,Transport,Credit Card,2080.49,3919.6
+2023-04-16 17:04:48,Expense,Housing,Bank to Bank,4490.61,-571.01
+2023-04-07 21:31:16,Expense,Education,Cash,4864.07,-5435.08
+2023-05-25 22:14:13,Expense,Health,Cash,3768.59,-9203.67
+2023-03-25 02:56:55,Expense,Food,Bank to Bank,3001.83,-12205.5
+2023-08-16 05:29:48,Income,Salary,Other,1896.03,-10309.47
+2023-04-08 00:49:41,Income,Freelance,Bank to Bank,819.86,-9489.61
+2023-06-27 17:56:08,Income,Business Income,Debit Card,4911.42,-4578.19
+2024-01-06 20:32:26,Expense,Transport,UPI,1614.84,-6193.03
+2023-03-03 04:59:41,Income,Investments,Cash,4334.38,-1858.65
+2023-02-13 11:02:06,Income,Business Income,UPI,3381.39,1522.74
+2023-02-17 13:31:55,Income,Salary,Other,2315.94,3838.68
+2024-01-08 21:09:33,Income,Gifts,Credit Card,1875.53,5714.21
+2023-04-12 05:58:01,Income,Gifts,UPI,4370.62,10084.83
+2023-08-03 05:33:19,Expense,Travel,Debit Card,3874.86,6209.97
+2023-05-17 16:55:25,Income,Investments,Credit Card,1321.39,7531.36
+2024-01-26 23:50:54,Expense,Travel,Debit Card,2781.51,4749.85
+2023-03-15 01:37:59,Income,Freelance,Mobile Wallet,4166.74,8916.59
+2023-08-30 03:13:59,Expense,Shopping,Cash,4187.34,4729.25
+2023-05-22 07:03:35,Expense,Travel,Other,1487.86,3241.39
+2023-09-27 17:34:13,Expense,Food,Mobile Wallet,2372.16,869.23
+2023-01-28 03:00:07,Income,Salary,Cash,4835.62,5704.85
+2023-11-05 13:37:43,Income,Rental Income,Other,3224.24,8929.09
+2023-05-01 16:20:29,Income,Business Income,Bank to Bank,1750.55,10679.64
+2023-08-13 12:02:23,Expense,Miscellaneous,Bank to Bank,3190.89,7488.75
+2024-01-07 21:14:15,Expense,Travel,Cash,1973.74,5515.01
+2023-01-06 14:20:10,Expense,Food,Debit Card,3566.29,1948.72
+2023-04-19 12:49:08,Income,Gifts,Other,442.74,2391.46
+2024-01-20 08:26:26,Income,Rental Income,Debit Card,3976.97,6368.43
+2023-06-20 14:22:26,Expense,Miscellaneous,Other,1134.71,5233.72
+2023-12-14 04:18:09,Expense,Shopping,UPI,2579.4,2654.32
+2023-03-12 11:13:33,Income,Rental Income,Bank to Bank,4678.78,7333.1
+2023-02-20 23:13:56,Expense,Education,Debit Card,4365.39,2967.71
+2023-11-24 04:06:22,Income,Business Income,Credit Card,3092.43,6060.14
+2023-02-09 09:01:31,Expense,Health,Mobile Wallet,4586.13,1474.01
+2023-10-27 23:49:41,Expense,Entertainment,Credit Card,2800.74,-1326.73
+2023-06-22 02:18:43,Income,Business Income,Bank to Bank,2099.39,772.66
+2023-03-14 13:47:26,Income,Other,Debit Card,3590.02,4362.68
+2023-08-01 20:44:16,Expense,Housing,Bank to Bank,975.49,3387.19
+2023-07-08 10:38:09,Income,Business Income,UPI,931.58,4318.77
+2023-04-16 21:33:28,Expense,Shopping,Debit Card,1764.01,2554.76
+2023-02-14 15:17:26,Income,Business Income,Bank to Bank,4741.43,7296.19
+2024-02-02 19:36:56,Income,Freelance,Cash,459.41,7755.6
+2023-10-21 18:53:15,Income,Salary,Cash,1579.39,9334.99
+2023-07-05 16:35:02,Expense,Food,Credit Card,3987.87,5347.12
+2023-02-15 19:59:58,Income,Freelance,Other,224.19,5571.31
+2023-04-05 16:52:48,Expense,Miscellaneous,Mobile Wallet,4272.09,1299.22
+2023-08-18 06:21:47,Expense,Health,UPI,685.14,614.08
+2023-12-16 10:16:55,Income,Rental Income,Cash,881.88,1495.96
+2023-10-25 06:37:42,Expense,Housing,UPI,3161.61,-1665.65
+2023-02-15 18:45:22,Income,Freelance,Other,4963.13,3297.48
+2023-03-17 18:07:35,Expense,Bills,Mobile Wallet,148.45,3149.03
+2023-09-14 19:37:57,Income,Gifts,Mobile Wallet,4983.97,8133.0
+2023-01-26 22:43:06,Expense,Health,Cash,209.47,7923.53
+2023-07-15 15:11:05,Income,Salary,Cash,3915.94,11839.47
+2023-07-08 20:41:33,Income,Rental Income,Credit Card,1462.4,13301.87
+2024-01-14 11:09:25,Expense,Travel,Debit Card,793.97,12507.9
+2023-03-25 19:13:33,Income,Business Income,Bank to Bank,1906.49,14414.39
+2024-01-20 16:29:48,Income,Gifts,Bank to Bank,1758.29,16172.68
+2023-08-13 09:14:06,Income,Business Income,Cash,2119.5,18292.18
+2023-01-20 09:45:21,Income,Salary,Debit Card,3142.6,21434.78
+2023-03-19 05:55:16,Income,Gifts,Debit Card,2099.52,23534.3
+2023-12-14 03:53:48,Expense,Entertainment,Mobile Wallet,3026.15,20508.15
+2023-11-20 18:51:29,Expense,Housing,Credit Card,4051.93,16456.22
+2023-07-30 21:05:55,Income,Gifts,Other,416.8,16873.02
+2023-04-01 01:58:43,Expense,Food,Other,1135.01,15738.01
+2023-12-23 22:49:17,Income,Freelance,Credit Card,1908.54,17646.55
+2023-02-14 22:10:47,Expense,Housing,Mobile Wallet,202.26,17444.29
+2023-11-12 03:07:57,Income,Business Income,Mobile Wallet,2266.67,19710.96
+2023-10-05 09:17:39,Expense,Bills,Mobile Wallet,4621.79,15089.17
+2023-06-26 06:58:42,Expense,Education,Credit Card,1605.23,13483.94
+2023-11-16 01:02:57,Income,Rental Income,UPI,2510.04,15993.98
+2023-10-20 05:01:03,Income,Gifts,UPI,4442.61,20436.59
+2023-01-27 02:21:02,Expense,Housing,Credit Card,2759.54,17677.05
+2023-06-03 20:44:46,Expense,Bills,UPI,697.94,16979.11
+2023-07-01 09:13:36,Expense,Food,Credit Card,3432.03,13547.08
+2023-10-21 22:40:10,Expense,Food,Cash,180.76,13366.32
+2024-01-31 06:32:25,Expense,Miscellaneous,Mobile Wallet,1368.37,11997.95
+2023-12-20 18:41:22,Income,Business Income,Credit Card,3948.12,15946.07
+2023-07-05 21:21:29,Income,Freelance,Debit Card,1871.83,17817.9
+2023-08-29 05:29:39,Income,Gifts,Credit Card,3783.5,21601.4
+2023-09-08 03:44:22,Income,Business Income,Bank to Bank,4861.09,26462.49
+2023-11-22 10:06:48,Income,Freelance,Other,4823.36,31285.85
+2024-01-24 05:08:40,Income,Other,UPI,2555.32,33841.17
+2023-06-20 08:53:57,Income,Rental Income,UPI,537.08,34378.25
+2023-02-08 11:28:20,Income,Gifts,Bank to Bank,1097.53,35475.78
+2023-03-29 03:12:49,Expense,Bills,Cash,4051.19,31424.59
+2024-01-22 05:13:12,Expense,Transport,Cash,3150.53,28274.06
+2023-07-17 23:42:12,Expense,Entertainment,Debit Card,4025.39,24248.67
+2024-02-03 08:25:38,Expense,Entertainment,Bank to Bank,2161.42,22087.25
+2023-07-11 20:45:03,Expense,Bills,Mobile Wallet,2969.87,19117.38
+2023-02-26 11:24:44,Expense,Travel,Other,1620.83,17496.55
+2023-09-21 16:24:31,Income,Investments,Bank to Bank,2810.93,20307.48
+2023-12-04 07:34:26,Expense,Education,Credit Card,3373.39,16934.09
+2023-09-13 08:39:10,Income,Freelance,UPI,2665.87,19599.96
+2023-06-11 02:43:03,Expense,Bills,Debit Card,1165.11,18434.85
+2023-10-26 17:20:58,Income,Rental Income,Bank to Bank,923.25,19358.1
+2023-12-10 03:20:01,Expense,Shopping,Credit Card,1100.11,18257.99
+2023-01-16 22:40:41,Expense,Entertainment,Debit Card,1045.49,17212.5
+2023-05-09 14:10:22,Income,Other,Debit Card,1993.37,19205.87
+2023-01-13 23:46:55,Expense,Miscellaneous,Credit Card,3548.47,15657.4
+2023-08-25 01:08:33,Income,Salary,Cash,890.52,16547.92
+2023-04-22 01:49:16,Income,Gifts,Mobile Wallet,2979.03,19526.95
+2023-09-03 09:41:12,Income,Other,Mobile Wallet,4079.41,23606.36
+2024-01-20 19:06:11,Expense,Health,Credit Card,1327.58,22278.78
+2023-10-31 08:11:45,Expense,Travel,Mobile Wallet,3186.47,19092.31
+2023-05-02 19:00:25,Expense,Shopping,Cash,1399.7,17692.61
+2023-11-12 02:59:09,Income,Gifts,Other,3819.44,21512.05
+2023-10-07 12:41:03,Expense,Travel,Other,1864.49,19647.56
+2023-09-15 14:17:41,Expense,Entertainment,Debit Card,1470.77,18176.79
+2023-05-28 05:38:52,Expense,Food,Bank to Bank,4357.54,13819.25
+2023-04-29 15:43:17,Expense,Miscellaneous,Bank to Bank,4281.12,9538.13
+2023-10-01 10:03:29,Expense,Transport,Other,4836.54,4701.59
+2023-01-09 09:45:08,Income,Gifts,Bank to Bank,2481.35,7182.94
+2023-12-13 15:14:15,Income,Gifts,Bank to Bank,4882.73,12065.67
+2023-09-22 10:32:34,Expense,Transport,Cash,3781.62,8284.05
+2023-11-09 16:16:04,Income,Business Income,Other,3798.3,12082.35
+2023-11-16 06:14:11,Expense,Education,UPI,148.88,11933.47
+2023-03-15 13:00:52,Expense,Bills,Other,913.48,11019.99
+2023-01-14 06:12:58,Income,Salary,Debit Card,2852.19,13872.18
+2023-05-26 21:17:50,Expense,Health,Credit Card,3152.52,10719.66
+2023-08-11 21:54:22,Expense,Entertainment,Mobile Wallet,3188.83,7530.83
+2023-01-10 09:01:05,Income,Gifts,Other,707.76,8238.59
+2023-08-19 09:26:13,Expense,Miscellaneous,Bank to Bank,2776.03,5462.56
+2023-03-07 23:48:11,Income,Rental Income,Other,4183.78,9646.34
+2023-06-06 23:26:09,Income,Business Income,Mobile Wallet,2112.92,11759.26
+2023-05-21 11:59:52,Expense,Shopping,Credit Card,820.37,10938.89
+2023-01-02 02:52:46,Income,Salary,Bank to Bank,497.03,11435.92
+2024-01-31 00:52:34,Expense,Housing,Debit Card,640.04,10795.88
+2023-08-11 15:15:05,Expense,Bills,UPI,3427.81,7368.07
+2024-01-21 20:02:12,Expense,Housing,Bank to Bank,3322.85,4045.22
+2023-04-28 13:10:38,Expense,Bills,Mobile Wallet,183.12,3862.1
+2023-04-27 03:33:31,Income,Investments,Bank to Bank,1461.54,5323.64
+2023-12-13 16:49:14,Expense,Food,UPI,3594.41,1729.23
+2023-11-20 18:47:01,Expense,Miscellaneous,UPI,4468.1,-2738.87
+2024-02-05 01:30:55,Income,Investments,Bank to Bank,1075.26,-1663.61
+2023-01-01 08:46:06,Expense,Travel,Debit Card,2333.26,-3996.87
+2023-02-06 01:54:32,Expense,Food,Bank to Bank,3620.5,-7617.37
+2023-04-02 05:49:21,Income,Salary,UPI,3395.85,-4221.52
+2023-05-03 20:38:49,Expense,Transport,Bank to Bank,1454.22,-5675.74
+2023-03-23 23:27:52,Income,Salary,Cash,2921.2,-2754.54
+2023-05-21 17:33:02,Income,Other,Credit Card,3637.92,883.38
+2024-01-03 18:26:35,Expense,Education,UPI,3526.12,-2642.74
+2023-02-16 06:43:43,Income,Freelance,Credit Card,2870.99,228.25
+2023-11-03 12:34:32,Income,Rental Income,Bank to Bank,3060.72,3288.97
+2023-12-04 02:44:18,Income,Investments,UPI,133.2,3422.17
+2023-07-17 16:29:57,Income,Business Income,Other,3326.85,6749.02
+2023-06-24 20:05:10,Expense,Health,Bank to Bank,181.01,6568.01
+2023-08-28 16:17:10,Income,Rental Income,Bank to Bank,4610.47,11178.48
+2023-02-08 02:27:45,Expense,Shopping,UPI,4551.05,6627.43
+2023-02-22 05:45:24,Income,Rental Income,Other,3610.48,10237.91
+2023-02-19 01:39:30,Income,Salary,Bank to Bank,2429.64,12667.55
+2023-07-03 06:57:26,Income,Freelance,Bank to Bank,3538.84,16206.39
+2023-05-24 08:16:00,Expense,Housing,Other,372.76,15833.63
+2023-12-02 04:52:51,Expense,Housing,Mobile Wallet,2862.21,12971.42
+2023-02-16 15:40:44,Income,Gifts,Bank to Bank,4770.06,17741.48
+2023-02-19 14:07:13,Expense,Miscellaneous,Other,1217.24,16524.24
+2023-09-12 01:07:45,Expense,Travel,Debit Card,367.17,16157.07
+2023-05-22 20:51:53,Income,Other,Other,2376.46,18533.53
+2023-12-15 16:54:15,Income,Salary,UPI,4925.95,23459.48
+2023-11-03 22:00:49,Expense,Transport,Debit Card,3408.03,20051.45
+2023-12-29 11:35:35,Income,Freelance,Other,3681.58,23733.03
+2024-01-05 17:59:08,Income,Investments,Other,394.12,24127.15
+2024-01-12 15:07:01,Income,Gifts,Mobile Wallet,1450.57,25577.72
+2023-03-19 08:08:47,Income,Rental Income,Mobile Wallet,4196.16,29773.88
+2023-03-10 15:03:09,Expense,Entertainment,Mobile Wallet,4335.71,25438.17
+2023-10-02 08:32:32,Expense,Shopping,Credit Card,3790.61,21647.56
+2023-01-15 18:35:17,Income,Business Income,Credit Card,3596.0,25243.56
+2023-03-06 08:42:50,Expense,Bills,Bank to Bank,3086.14,22157.42
+2023-12-13 06:56:30,Expense,Bills,Mobile Wallet,4464.74,17692.68
+2023-01-03 15:54:06,Income,Other,UPI,1074.76,18767.44
+2023-08-16 16:12:45,Expense,Shopping,Credit Card,3302.06,15465.38
+2023-12-09 23:54:38,Expense,Miscellaneous,Credit Card,2889.08,12576.3
+2023-12-21 05:23:30,Expense,Entertainment,UPI,743.35,11832.95
+2023-08-30 05:11:40,Income,Freelance,Cash,1640.06,13473.01
+2023-02-06 18:53:53,Income,Rental Income,Other,2378.16,15851.17
+2023-01-05 04:47:50,Expense,Food,Credit Card,2248.92,13602.25
+2023-03-17 04:48:33,Expense,Housing,Other,3821.89,9780.36
+2024-01-19 02:22:09,Income,Gifts,UPI,3672.72,13453.08
+2023-09-03 22:14:41,Income,Gifts,Mobile Wallet,274.15,13727.23
+2023-07-10 17:18:16,Expense,Housing,Credit Card,3986.05,9741.18
+2023-10-09 23:09:09,Income,Business Income,Mobile Wallet,2423.28,12164.46
+2023-11-22 03:21:55,Expense,Shopping,Cash,1203.73,10960.73
+2023-12-05 21:43:07,Expense,Transport,Debit Card,1756.24,9204.49
+2023-10-21 23:09:06,Expense,Bills,Other,4429.1,4775.39
+2023-09-05 07:24:36,Income,Salary,Cash,723.51,5498.9
+2024-01-29 04:37:32,Expense,Bills,UPI,4863.19,635.71
+2023-01-26 12:55:11,Expense,Education,Other,1584.28,-948.57
+2023-08-02 04:37:39,Income,Freelance,UPI,2288.07,1339.5
+2023-08-04 23:03:13,Income,Salary,Debit Card,1971.38,3310.88
+2023-09-03 05:43:24,Expense,Travel,Debit Card,2931.96,378.92
+2023-01-28 21:09:59,Income,Freelance,UPI,2960.65,3339.57
+2023-10-18 18:27:34,Expense,Health,Bank to Bank,2171.33,1168.24
+2023-09-01 13:11:53,Expense,Food,Mobile Wallet,2854.99,-1686.75
+2023-08-09 09:54:27,Expense,Education,Mobile Wallet,898.9,-2585.65
+2023-05-14 10:35:53,Expense,Food,Mobile Wallet,754.17,-3339.82
+2023-11-09 21:55:24,Expense,Bills,Credit Card,3500.37,-6840.19
+2023-04-27 04:18:30,Expense,Housing,Debit Card,3716.56,-10556.75
+2023-08-04 23:13:07,Expense,Health,Cash,2692.78,-13249.53
+2023-04-06 02:14:49,Income,Rental Income,Mobile Wallet,971.74,-12277.79
+2023-01-24 23:56:22,Expense,Housing,Mobile Wallet,3612.86,-15890.65
+2023-02-02 20:27:58,Expense,Miscellaneous,Bank to Bank,2462.17,-18352.82
+2023-01-17 17:55:11,Income,Salary,UPI,336.01,-18016.81
+2023-04-28 22:15:56,Expense,Housing,Credit Card,4511.25,-22528.06
+2023-02-07 07:43:04,Expense,Education,Bank to Bank,504.39,-23032.45
+2023-09-01 20:04:22,Income,Rental Income,UPI,407.95,-22624.5
+2024-02-03 03:50:33,Income,Salary,Credit Card,2979.63,-19644.87
+2023-07-09 10:36:13,Income,Other,Bank to Bank,2862.43,-16782.44
+2023-12-18 02:14:16,Expense,Education,Debit Card,2353.73,-19136.17
+2023-11-22 04:58:01,Expense,Miscellaneous,Other,3789.26,-22925.43
+2023-10-15 01:23:43,Income,Business Income,UPI,1598.0,-21327.43
+2023-03-01 05:20:13,Income,Freelance,UPI,4887.74,-16439.69
+2023-09-11 19:21:29,Expense,Transport,Mobile Wallet,1401.99,-17841.68
+2023-11-26 21:06:43,Income,Business Income,Debit Card,3899.7,-13941.98
+2023-11-21 05:51:56,Income,Investments,Other,4636.47,-9305.51
+2023-04-24 12:15:30,Income,Rental Income,Mobile Wallet,2364.97,-6940.54
+2024-01-17 21:03:46,Expense,Health,Mobile Wallet,1729.74,-8670.28
+2023-12-24 22:19:15,Expense,Health,Credit Card,2614.6,-11284.88
+2023-12-20 18:06:20,Income,Rental Income,Other,3320.59,-7964.29
+2023-10-31 21:24:34,Expense,Health,Bank to Bank,4562.42,-12526.71
+2023-04-02 03:33:17,Income,Investments,Mobile Wallet,2833.67,-9693.04
+2023-08-05 23:42:21,Income,Other,Mobile Wallet,376.06,-9316.98
+2023-11-12 21:30:51,Expense,Food,Bank to Bank,633.49,-9950.47
+2023-11-01 01:56:17,Income,Rental Income,Cash,3068.25,-6882.22
+2023-04-13 04:40:48,Expense,Miscellaneous,Mobile Wallet,246.41,-7128.63
+2023-07-29 19:32:22,Expense,Miscellaneous,Other,2162.93,-9291.56
+2023-03-12 21:10:05,Income,Freelance,UPI,1126.39,-8165.17
+2023-08-19 05:45:06,Income,Other,Debit Card,1071.11,-7094.06
+2024-02-01 20:19:24,Expense,Education,Mobile Wallet,627.23,-7721.29
+2023-01-05 15:54:37,Income,Investments,Cash,101.7,-7619.59
+2023-05-06 05:48:18,Income,Gifts,UPI,4591.7,-3027.89
+2023-10-06 12:47:50,Income,Gifts,Cash,1412.74,-1615.15
+2023-08-23 02:15:39,Income,Gifts,Bank to Bank,2775.22,1160.07
+2023-10-18 03:39:54,Income,Business Income,UPI,1818.26,2978.33
+2024-01-13 23:39:40,Income,Business Income,Credit Card,3746.09,6724.42
+2023-02-10 21:43:33,Expense,Bills,Debit Card,3853.18,2871.24
+2023-10-07 17:53:52,Income,Other,Debit Card,493.01,3364.25
+2023-12-16 11:17:49,Income,Salary,Debit Card,2566.47,5930.72
+2023-06-29 10:15:22,Income,Investments,Credit Card,3298.98,9229.7
+2023-06-17 17:32:41,Expense,Health,Other,1720.8,7508.9
+2023-09-27 12:28:17,Income,Gifts,Other,2153.83,9662.73
+2023-09-06 00:09:13,Expense,Bills,Bank to Bank,2789.75,6872.98
+2023-06-13 01:32:16,Income,Other,Mobile Wallet,2014.71,8887.69
+2023-11-27 08:25:24,Expense,Transport,Cash,1100.34,7787.35
+2023-10-14 23:24:47,Expense,Shopping,Cash,4591.07,3196.28
+2023-05-04 23:44:27,Income,Gifts,Debit Card,3480.35,6676.63
+2023-09-19 16:37:44,Expense,Food,Cash,3496.27,3180.36
+2023-08-12 15:05:33,Expense,Bills,Other,4722.89,-1542.53
+2024-01-11 09:09:15,Income,Business Income,Cash,3948.24,2405.71
+2023-01-31 00:17:36,Income,Gifts,Credit Card,1452.1,3857.81
+2023-08-25 22:15:08,Income,Other,Debit Card,4062.24,7920.05
+2023-03-03 15:19:00,Income,Gifts,Debit Card,4407.94,12327.99
+2023-02-04 16:06:29,Income,Freelance,Cash,950.31,13278.3
+2024-01-22 02:24:51,Income,Business Income,Credit Card,4529.78,17808.08
+2023-06-06 03:07:32,Expense,Travel,Bank to Bank,986.91,16821.17
+2023-07-21 04:00:58,Income,Rental Income,Credit Card,3731.32,20552.49
+2023-02-07 16:37:17,Expense,Miscellaneous,Cash,4822.99,15729.5
+2023-06-29 21:24:30,Income,Rental Income,UPI,3202.23,18931.73
+2023-04-30 07:16:42,Income,Gifts,Cash,2929.2,21860.93
+2023-12-11 15:17:47,Income,Freelance,UPI,4618.23,26479.16
+2023-05-03 03:12:08,Income,Gifts,Bank to Bank,2119.92,28599.08
+2023-10-26 13:36:48,Expense,Travel,Cash,393.71,28205.37
+2023-12-26 05:43:42,Income,Rental Income,Bank to Bank,3757.99,31963.36
+2024-01-25 20:36:19,Income,Investments,Mobile Wallet,3153.43,35116.79
+2023-05-13 15:05:00,Expense,Shopping,UPI,1096.88,34019.91
+2023-12-02 06:16:27,Income,Freelance,UPI,698.26,34718.17
+2023-03-05 20:00:38,Expense,Shopping,Cash,4031.68,30686.49
+2023-11-16 16:49:21,Expense,Housing,Other,162.31,30524.18
+2023-01-05 20:18:36,Income,Salary,Bank to Bank,2301.57,32825.75
+2024-01-07 08:04:05,Expense,Housing,Mobile Wallet,1511.3,31314.45
+2023-12-08 07:08:59,Expense,Travel,Mobile Wallet,2388.94,28925.51
+2023-07-18 15:43:02,Expense,Food,UPI,774.75,28150.76
+2023-01-16 03:28:34,Income,Gifts,Debit Card,4707.9,32858.66
+2023-11-24 05:16:23,Income,Rental Income,Credit Card,2985.96,35844.62
+2023-12-31 05:59:33,Expense,Education,Debit Card,173.35,35671.27
+2023-09-18 22:51:31,Expense,Miscellaneous,Debit Card,3035.5,32635.77
+2023-07-10 20:12:37,Income,Salary,Bank to Bank,3371.55,36007.32
+2023-11-28 22:41:02,Income,Business Income,Mobile Wallet,4427.49,40434.81
+2023-08-10 19:46:39,Expense,Shopping,Mobile Wallet,355.39,40079.42
+2023-06-24 17:52:22,Income,Salary,Mobile Wallet,2192.31,42271.73
+2023-07-13 09:19:52,Expense,Education,Credit Card,3143.53,39128.2
+2023-01-18 12:33:15,Income,Investments,Other,2439.86,41568.06
+2023-11-12 05:02:37,Expense,Health,Other,1748.17,39819.89
+2023-05-13 17:53:18,Income,Gifts,Credit Card,4841.67,44661.56
+2023-10-11 01:39:55,Income,Business Income,Mobile Wallet,3784.27,48445.83
+2023-03-08 22:29:05,Income,Business Income,Cash,3351.49,51797.32
+2023-02-03 15:19:25,Expense,Food,Debit Card,2464.81,49332.51
+2023-05-04 07:48:00,Expense,Education,Bank to Bank,3409.47,45923.04
+2023-12-30 20:55:26,Expense,Shopping,Other,1182.33,44740.71
+2024-01-24 07:32:11,Expense,Travel,Debit Card,3527.85,41212.86
+2023-12-08 03:08:02,Income,Freelance,Bank to Bank,3952.46,45165.32
+2023-06-23 20:40:42,Income,Gifts,Other,549.21,45714.53
+2023-11-03 17:10:56,Expense,Shopping,Cash,3005.16,42709.37
+2023-06-17 18:47:04,Income,Gifts,Bank to Bank,2057.86,44767.23
+2023-06-19 22:02:51,Expense,Health,Bank to Bank,4003.4,40763.83
+2023-10-09 11:05:36,Expense,Housing,Other,916.9,39846.93
+2023-11-27 05:17:06,Income,Gifts,Bank to Bank,3610.0,43456.93
+2023-11-07 15:09:24,Expense,Entertainment,Debit Card,952.22,42504.71
+2024-01-13 17:03:57,Income,Business Income,UPI,4878.34,47383.05
+2023-01-20 00:11:29,Income,Business Income,Other,4817.83,52200.88
+2024-01-21 04:49:02,Expense,Food,UPI,453.98,51746.9
+2023-07-30 23:03:54,Expense,Miscellaneous,Other,780.92,50965.98
+2023-11-09 22:35:14,Income,Rental Income,Cash,2507.72,53473.7
+2023-03-21 19:24:21,Income,Freelance,Cash,3311.03,56784.73
+2023-04-02 17:43:18,Expense,Shopping,UPI,378.93,56405.8
+2023-09-06 21:00:53,Income,Rental Income,Cash,4935.92,61341.72
+2023-05-27 13:46:12,Income,Freelance,Bank to Bank,4492.01,65833.73
+2023-04-27 09:05:02,Income,Salary,UPI,4335.36,70169.09
+2023-04-24 09:18:15,Income,Freelance,UPI,3320.78,73489.87
+2023-05-19 14:03:48,Income,Salary,Other,1803.14,75293.01
+2023-12-20 10:37:42,Expense,Miscellaneous,Bank to Bank,1521.44,73771.57
+2023-03-31 04:01:11,Expense,Transport,Debit Card,426.68,73344.89
+2023-06-09 12:36:11,Expense,Food,Bank to Bank,1744.32,71600.57
+2023-09-30 06:47:34,Income,Business Income,Mobile Wallet,968.02,72568.59
+2023-10-17 17:47:24,Expense,Entertainment,Bank to Bank,3755.67,68812.92
+2023-08-06 16:48:35,Income,Rental Income,Mobile Wallet,4746.46,73559.38
+2023-05-18 07:54:31,Income,Rental Income,Credit Card,103.89,73663.27
+2023-03-27 09:45:20,Income,Other,Other,3646.96,77310.23
+2023-10-13 04:36:56,Income,Investments,Credit Card,2420.95,79731.18
+2023-09-05 01:12:27,Expense,Travel,Bank to Bank,1236.44,78494.74
+2023-07-23 21:29:10,Expense,Entertainment,Cash,4412.48,74082.26
+2023-01-12 23:44:05,Expense,Food,Cash,3066.56,71015.7
+2023-03-08 00:16:50,Income,Gifts,Other,1392.35,72408.05
+2023-01-01 11:43:59,Expense,Housing,Debit Card,310.74,72097.31
+2023-09-25 22:50:32,Expense,Transport,Bank to Bank,1074.78,71022.53
+2024-01-19 20:09:56,Income,Investments,Other,1071.78,72094.31
+2023-02-18 08:58:05,Income,Salary,Cash,1182.64,73276.95
+2023-01-13 14:00:39,Income,Investments,Mobile Wallet,2946.78,76223.73
+2023-04-17 19:01:29,Income,Freelance,Mobile Wallet,2003.98,78227.71
+2023-11-22 18:19:17,Expense,Entertainment,Credit Card,4923.4,73304.31
+2023-05-29 22:05:19,Expense,Health,Debit Card,2567.0,70737.31
+2023-11-21 08:13:42,Expense,Entertainment,Mobile Wallet,4585.24,66152.07
+2023-01-12 01:45:08,Expense,Bills,Mobile Wallet,3993.76,62158.31
+2023-06-03 11:44:57,Income,Freelance,Other,1706.82,63865.13
+2023-02-21 06:30:45,Expense,Housing,Bank to Bank,4021.22,59843.91
+2023-07-09 07:36:32,Income,Rental Income,Cash,4582.32,64426.23
+2023-09-22 05:57:17,Income,Freelance,Mobile Wallet,361.92,64788.15
+2023-11-23 17:57:01,Income,Rental Income,Mobile Wallet,3519.17,68307.32
+2023-10-28 07:37:16,Expense,Health,Other,4588.26,63719.06
+2023-09-18 23:48:58,Expense,Housing,Bank to Bank,3741.41,59977.65
+2023-09-18 22:20:58,Income,Gifts,Debit Card,2709.9,62687.55
+2023-02-04 10:34:24,Expense,Travel,Bank to Bank,2883.62,59803.93
+2024-01-17 12:09:09,Income,Salary,Cash,4796.68,64600.61
+2023-08-14 02:13:27,Income,Other,Other,3669.27,68269.88
+2023-03-05 07:01:21,Expense,Food,Cash,1844.83,66425.05
+2023-02-14 19:33:03,Income,Gifts,Credit Card,2167.6,68592.65
+2023-08-23 14:21:14,Expense,Bills,Cash,492.76,68099.89
+2024-01-10 00:46:23,Expense,Bills,Credit Card,1024.44,67075.45
+2023-07-01 02:25:41,Income,Investments,UPI,3284.59,70360.04
+2023-12-05 00:01:00,Expense,Housing,Bank to Bank,2899.33,67460.71
+2024-01-03 06:46:17,Income,Rental Income,Mobile Wallet,1676.56,69137.27
+2023-02-12 09:42:28,Income,Freelance,UPI,346.5,69483.77
+2023-01-18 12:42:58,Income,Business Income,UPI,3714.9,73198.67
+2023-01-09 12:34:37,Income,Salary,Cash,2099.97,75298.64
+2023-12-21 02:54:22,Income,Other,UPI,1543.69,76842.33
+2023-02-03 00:15:27,Expense,Housing,Other,1180.05,75662.28
+2023-10-12 19:27:06,Expense,Housing,Cash,1854.43,73807.85
+2023-08-16 05:38:46,Expense,Food,Other,4357.48,69450.37
+2023-08-29 22:58:21,Expense,Shopping,Mobile Wallet,2960.67,66489.7
+2023-08-24 01:52:09,Income,Salary,UPI,243.17,66732.87
+2024-01-14 17:27:38,Expense,Food,Bank to Bank,1102.57,65630.3
+2023-08-13 00:55:17,Expense,Travel,Bank to Bank,4860.81,60769.49
+2023-06-08 16:57:57,Income,Other,Debit Card,4252.52,65022.01
+2023-06-14 17:20:30,Expense,Entertainment,Credit Card,4050.18,60971.83
+2023-11-24 16:28:43,Income,Gifts,Other,3259.45,64231.28
+2023-11-06 08:48:24,Expense,Transport,Mobile Wallet,3346.73,60884.55
+2023-01-16 02:24:42,Expense,Shopping,Mobile Wallet,973.54,59911.01
+2023-08-16 15:02:11,Expense,Food,Other,3118.17,56792.84
+2023-11-28 20:55:00,Income,Other,Cash,4893.56,61686.4
+2023-04-03 21:14:03,Income,Salary,Bank to Bank,284.43,61970.83
+2023-03-17 15:04:09,Expense,Health,Mobile Wallet,2857.23,59113.6
+2023-02-24 03:24:18,Expense,Food,Cash,1327.3,57786.3
+2023-08-24 18:34:03,Income,Business Income,Other,3088.17,60874.47
+2024-01-16 00:42:49,Expense,Miscellaneous,Credit Card,831.4,60043.07
+2023-04-29 03:07:46,Expense,Entertainment,Debit Card,797.0,59246.07
+2023-06-26 21:18:44,Income,Rental Income,Debit Card,905.92,60151.99
+2023-11-12 01:20:47,Expense,Food,UPI,2971.32,57180.67
+2023-04-22 22:24:36,Income,Business Income,Mobile Wallet,907.4,58088.07
+2023-09-02 01:53:31,Expense,Education,Other,2830.04,55258.03
+2023-12-26 20:16:13,Income,Gifts,Other,853.06,56111.09
+2023-05-04 05:10:58,Income,Rental Income,Debit Card,204.5,56315.59
+2023-11-02 18:37:52,Income,Freelance,UPI,3562.21,59877.8
+2023-07-08 20:07:49,Expense,Education,Cash,3005.58,56872.22
+2023-12-27 06:08:02,Income,Gifts,Other,3879.33,60751.55
+2023-09-26 00:56:31,Income,Freelance,UPI,4568.91,65320.46
+2024-01-12 00:59:50,Income,Other,Credit Card,2076.56,67397.02
+2023-12-01 16:19:59,Income,Other,Credit Card,3196.63,70593.65
+2023-12-07 17:29:39,Income,Other,Debit Card,3800.67,74394.32
+2023-05-12 07:32:05,Income,Gifts,UPI,4516.65,78910.97
+2023-10-17 17:50:36,Expense,Shopping,Other,2767.76,76143.21
+2023-03-10 11:25:56,Expense,Travel,Other,4937.26,71205.95
+2023-07-08 15:25:39,Income,Other,Cash,1303.06,72509.01
+2024-01-04 12:35:56,Income,Freelance,Mobile Wallet,139.2,72648.21
+2023-03-14 03:13:31,Income,Gifts,Other,1474.8,74123.01
+2023-01-17 05:56:21,Income,Rental Income,Cash,4805.56,78928.57
+2023-08-10 05:14:43,Expense,Bills,Bank to Bank,1735.6,77192.97
+2023-05-28 23:15:03,Expense,Food,Cash,2831.65,74361.32
+2023-05-17 20:16:28,Income,Freelance,Debit Card,2824.84,77186.16
+2023-10-24 12:35:28,Expense,Bills,UPI,3180.38,74005.78
+2023-06-01 10:08:06,Expense,Bills,Bank to Bank,2915.22,71090.56
+2023-02-25 19:22:27,Income,Freelance,UPI,1770.72,72861.28
+2023-02-06 00:34:04,Expense,Health,Bank to Bank,2992.91,69868.37
+2023-09-14 17:13:17,Income,Other,Debit Card,3745.68,73614.05
+2023-03-22 23:10:51,Expense,Travel,Debit Card,2979.54,70634.51
+2023-02-14 10:03:17,Income,Gifts,Bank to Bank,3502.4,74136.91
+2023-06-29 10:00:56,Expense,Miscellaneous,Mobile Wallet,2591.65,71545.26
+2023-03-24 13:27:07,Income,Investments,Other,2202.3,73747.56
+2023-08-26 16:53:38,Expense,Transport,Other,2399.11,71348.45
+2023-05-13 06:18:39,Income,Gifts,Other,4259.42,75607.87
+2023-05-25 07:13:22,Income,Business Income,Credit Card,2946.48,78554.35
+2023-11-08 13:36:27,Expense,Travel,Mobile Wallet,3195.82,75358.53
+2024-01-16 16:47:43,Expense,Shopping,Mobile Wallet,3515.58,71842.95
+2023-05-05 05:33:41,Income,Gifts,Cash,703.62,72546.57
+2023-09-29 11:09:32,Income,Salary,Credit Card,3868.82,76415.39
+2023-06-26 18:03:11,Income,Freelance,Other,470.9,76886.29
+2023-06-25 08:56:05,Income,Other,Cash,1714.29,78600.58
+2023-04-13 19:13:13,Income,Gifts,Credit Card,2217.77,80818.35
+2023-10-29 21:55:04,Income,Freelance,Other,3147.79,83966.14
+2023-08-28 22:02:04,Income,Investments,Cash,1629.11,85595.25
+2023-11-30 02:08:25,Expense,Education,Other,1973.19,83622.06
+2023-09-26 13:01:20,Expense,Transport,Mobile Wallet,1770.6,81851.46
+2023-02-15 13:00:36,Income,Investments,Bank to Bank,1481.41,83332.87
+2023-05-25 17:17:24,Expense,Shopping,Debit Card,2121.43,81211.44
+2023-06-10 19:58:08,Income,Salary,Bank to Bank,1721.66,82933.1
+2023-05-09 07:16:19,Income,Freelance,Cash,2115.71,85048.81
+2023-08-29 13:17:30,Expense,Miscellaneous,UPI,3662.33,81386.48
+2023-10-07 12:21:41,Expense,Housing,Credit Card,2845.3,78541.18
+2023-02-10 18:43:01,Income,Freelance,Other,2823.6,81364.78
+2023-06-21 19:16:20,Income,Other,Cash,672.48,82037.26
+2023-09-05 14:01:58,Expense,Transport,Other,2452.25,79585.01
+2023-01-07 01:38:10,Income,Other,Other,4696.23,84281.24
+2023-01-18 07:23:45,Expense,Travel,Mobile Wallet,4306.72,79974.52
+2024-01-20 02:46:00,Expense,Housing,Bank to Bank,803.5,79171.02
+2023-03-10 23:52:51,Expense,Education,Mobile Wallet,3964.1,75206.92
+2023-06-03 05:24:47,Income,Other,Debit Card,4902.72,80109.64
+2023-05-19 14:16:56,Expense,Travel,Credit Card,1128.27,78981.37
+2023-04-09 15:43:12,Income,Business Income,Bank to Bank,3170.81,82152.18
+2023-12-18 03:03:13,Income,Rental Income,Bank to Bank,4965.75,87117.93
+2023-02-02 10:57:37,Expense,Entertainment,Debit Card,3485.58,83632.35
+2023-11-05 10:19:44,Expense,Entertainment,Bank to Bank,4363.86,79268.49
+2023-06-29 23:35:29,Income,Freelance,Debit Card,4147.38,83415.87
+2023-12-11 02:02:59,Expense,Health,Other,4768.42,78647.45
+2023-04-11 06:44:57,Expense,Food,Credit Card,3298.15,75349.3
+2023-08-09 03:12:20,Income,Other,UPI,912.71,76262.01
+2023-09-23 08:59:27,Expense,Housing,UPI,1443.41,74818.6
+2023-10-26 05:37:25,Expense,Entertainment,UPI,4371.76,70446.84
+2023-11-21 05:55:09,Income,Gifts,Cash,1135.18,71582.02
+2023-10-27 05:43:36,Income,Business Income,Bank to Bank,2012.88,73594.9
+2023-04-11 13:57:00,Expense,Travel,Other,1483.6,72111.3
+2023-01-26 14:06:29,Expense,Housing,Bank to Bank,402.47,71708.83
+2023-09-28 06:03:19,Income,Business Income,UPI,883.29,72592.12
+2023-01-08 09:47:31,Income,Salary,Mobile Wallet,207.15,72799.27
+2023-11-18 12:32:48,Income,Investments,Cash,1220.64,74019.91
+2023-11-02 04:52:07,Expense,Food,Credit Card,4957.76,69062.15
+2023-11-25 04:59:27,Expense,Entertainment,Mobile Wallet,3756.64,65305.51
+2023-02-21 14:09:08,Expense,Bills,Cash,3759.9,61545.61
+2023-10-27 09:51:58,Income,Business Income,Credit Card,2632.69,64178.3
+2023-09-18 15:37:44,Expense,Miscellaneous,Debit Card,1141.95,63036.35
+2024-01-09 12:27:08,Income,Gifts,Debit Card,3865.21,66901.56
+2023-08-28 21:48:02,Expense,Education,Cash,4213.86,62687.7
+2023-12-26 07:05:50,Income,Other,Other,4414.31,67102.01
+2023-02-21 04:59:48,Income,Rental Income,Other,3385.68,70487.69
+2023-08-22 02:46:10,Expense,Food,Bank to Bank,3466.89,67020.8
+2023-11-05 17:20:05,Income,Salary,Other,2027.2,69048.0
+2023-03-31 12:49:02,Income,Investments,UPI,3688.75,72736.75
+2023-08-29 20:57:11,Income,Business Income,Credit Card,4273.78,77010.53
+2023-09-27 03:29:13,Expense,Education,Debit Card,1506.3,75504.23
+2024-01-15 05:08:56,Income,Freelance,Credit Card,130.45,75634.68
+2023-03-14 23:35:44,Expense,Bills,Mobile Wallet,2532.31,73102.37
+2023-06-07 15:42:36,Expense,Food,UPI,1625.94,71476.43
+2023-01-23 15:40:59,Expense,Entertainment,Cash,4782.9,66693.53
+2023-09-18 02:43:58,Income,Freelance,Debit Card,224.19,66917.72
+2023-10-21 19:46:52,Expense,Health,Mobile Wallet,1874.68,65043.04
+2023-08-27 13:28:14,Expense,Food,UPI,3105.51,61937.53
+2023-01-17 20:12:11,Expense,Miscellaneous,Bank to Bank,188.6,61748.93
+2023-06-08 17:27:00,Income,Gifts,UPI,4765.81,66514.74
+2023-09-08 20:43:05,Income,Investments,UPI,2621.23,69135.97
+2023-10-01 08:11:33,Income,Business Income,Bank to Bank,4975.35,74111.32
+2023-04-21 00:01:20,Expense,Health,Mobile Wallet,1617.27,72494.05
+2023-09-23 11:43:22,Expense,Education,Debit Card,3290.49,69203.56
+2023-09-19 17:02:49,Expense,Entertainment,Debit Card,4691.13,64512.43
+2023-06-22 03:47:13,Income,Gifts,Mobile Wallet,3583.59,68096.02
+2024-01-08 05:48:40,Expense,Bills,Mobile Wallet,1832.33,66263.69
+2023-12-09 01:34:43,Expense,Shopping,Bank to Bank,753.33,65510.36
+2023-08-15 21:29:23,Income,Salary,Bank to Bank,3198.4,68708.76
+2023-02-24 00:06:39,Income,Freelance,Cash,4187.35,72896.11
+2023-11-13 18:54:42,Expense,Housing,Debit Card,4207.23,68688.88
+2023-03-05 12:21:28,Income,Rental Income,Mobile Wallet,3014.53,71703.41
+2023-12-10 13:44:24,Expense,Shopping,Other,1426.07,70277.34
+2023-07-07 12:39:44,Expense,Education,Debit Card,1954.3,68323.04
+2023-07-18 17:35:06,Expense,Entertainment,Credit Card,900.94,67422.1
+2023-12-29 11:35:35,Income,Salary,Bank to Bank,2701.75,70123.85
+2023-02-12 05:08:00,Income,Other,UPI,3639.57,73763.42
+2023-11-13 19:22:53,Expense,Shopping,Cash,3075.42,70688.0
+2023-11-05 23:51:10,Expense,Education,Debit Card,219.18,70468.82
+2023-07-17 22:23:36,Expense,Health,Other,3593.61,66875.21
+2023-09-11 04:38:21,Expense,Miscellaneous,Cash,1078.86,65796.35
+2023-01-14 17:05:17,Income,Salary,Bank to Bank,3752.95,69549.3
+2023-04-03 10:36:50,Income,Salary,Mobile Wallet,109.09,69658.39
+2023-11-26 07:16:48,Income,Rental Income,Cash,3922.16,73580.55
+2023-11-11 05:57:27,Expense,Travel,Other,1283.93,72296.62
+2023-02-17 22:32:39,Expense,Education,Credit Card,2906.05,69390.57
+2023-12-23 03:25:26,Expense,Travel,Cash,677.56,68713.01
+2023-09-04 03:52:17,Expense,Housing,Bank to Bank,3410.92,65302.09
+2023-12-31 23:27:30,Expense,Health,Cash,2194.49,63107.6
+2023-01-02 16:43:38,Expense,Transport,Mobile Wallet,659.71,62447.89
+2023-07-18 11:34:08,Income,Other,Bank to Bank,3176.46,65624.35
+2023-12-18 18:30:36,Expense,Transport,Debit Card,867.6,64756.75
+2023-11-11 00:51:53,Income,Rental Income,Debit Card,4574.1,69330.85
+2023-03-28 01:25:42,Income,Rental Income,Bank to Bank,2450.78,71781.63
+2023-08-11 16:54:57,Income,Investments,UPI,547.28,72328.91
+2023-10-16 12:31:30,Expense,Bills,Bank to Bank,4245.24,68083.67
+2023-02-07 05:07:52,Expense,Bills,Mobile Wallet,2550.22,65533.45
+2023-10-05 16:24:38,Expense,Food,Cash,716.91,64816.54
+2023-07-31 03:20:07,Income,Rental Income,Bank to Bank,4583.35,69399.89
+2023-09-03 10:53:30,Income,Freelance,Credit Card,1204.59,70604.48
+2023-09-12 21:26:40,Expense,Entertainment,Cash,3567.29,67037.19
+2023-02-28 16:41:01,Income,Investments,Mobile Wallet,1170.65,68207.84
+2023-07-10 03:51:52,Expense,Transport,Bank to Bank,4936.14,63271.7
+2023-04-01 22:59:58,Expense,Shopping,Mobile Wallet,806.14,62465.56
+2023-10-31 23:35:03,Expense,Housing,Debit Card,533.88,61931.68
+2023-11-12 07:16:56,Income,Other,Mobile Wallet,4868.56,66800.24
+2023-09-16 16:53:19,Income,Investments,UPI,4976.3,71776.54
+2023-03-14 01:02:49,Income,Salary,Other,112.54,71889.08
+2023-05-30 02:42:02,Expense,Health,Debit Card,776.47,71112.61
+2024-01-14 20:48:59,Income,Freelance,UPI,4462.21,75574.82
+2023-01-19 18:11:21,Expense,Travel,Cash,3645.08,71929.74
+2024-01-30 07:43:29,Expense,Bills,Debit Card,3652.01,68277.73
+2023-09-19 05:32:42,Income,Investments,Other,4760.43,73038.16
+2023-07-11 05:00:31,Expense,Entertainment,Bank to Bank,3183.07,69855.09
+2023-07-05 07:16:08,Income,Salary,Mobile Wallet,3603.84,73458.93
+2023-11-27 09:38:00,Income,Salary,UPI,4996.2,78455.13
+2023-09-15 20:02:57,Income,Investments,Bank to Bank,2978.58,81433.71
+2023-10-14 03:03:08,Income,Salary,Mobile Wallet,760.44,82194.15
+2023-02-01 15:33:15,Expense,Housing,Other,1266.83,80927.32
+2023-07-15 01:26:32,Expense,Food,Bank to Bank,3354.2,77573.12
+2023-08-24 11:18:16,Income,Business Income,Cash,4504.05,82077.17
+2023-05-27 20:38:24,Income,Other,Credit Card,3080.19,85157.36
+2023-11-12 23:42:12,Expense,Bills,UPI,3093.61,82063.75
+2023-05-13 08:44:36,Income,Other,Mobile Wallet,976.17,83039.92
+2023-03-31 15:20:29,Income,Rental Income,Bank to Bank,2638.19,85678.11
+2023-07-31 14:26:45,Expense,Miscellaneous,Other,1847.58,83830.53
+2023-07-30 23:53:03,Expense,Health,Mobile Wallet,966.35,82864.18
+2023-04-19 08:18:33,Income,Rental Income,Mobile Wallet,3593.0,86457.18
+2023-07-23 07:34:30,Income,Salary,Bank to Bank,4691.43,91148.61
+2023-08-27 10:29:11,Expense,Bills,Debit Card,4886.17,86262.44
+2023-03-28 04:37:17,Expense,Shopping,Mobile Wallet,1693.62,84568.82
+2024-01-30 11:28:03,Expense,Food,Debit Card,3934.14,80634.68
+2023-05-30 23:34:56,Income,Other,Mobile Wallet,1682.37,82317.05
+2023-03-01 06:40:29,Income,Salary,Debit Card,3252.96,85570.01
+2023-01-29 08:43:13,Expense,Housing,Credit Card,1408.4,84161.61
+2023-03-05 05:06:21,Income,Gifts,Mobile Wallet,1677.32,85838.93
+2023-07-20 07:14:46,Income,Salary,Debit Card,1519.18,87358.11
+2023-02-12 21:20:48,Income,Gifts,Bank to Bank,4249.68,91607.79
+2023-03-15 15:25:06,Expense,Health,Bank to Bank,433.12,91174.67
+2023-11-07 17:58:08,Income,Rental Income,Debit Card,976.55,92151.22
+2023-02-17 21:55:53,Expense,Miscellaneous,Other,2362.36,89788.86
+2023-09-19 21:17:02,Income,Other,Cash,3185.01,92973.87
+2023-01-08 19:07:59,Income,Freelance,Credit Card,2398.12,95371.99
+2023-09-29 13:25:13,Expense,Health,Credit Card,1919.17,93452.82
+2023-01-18 01:11:10,Expense,Housing,UPI,3755.97,89696.85
+2023-01-11 05:04:52,Expense,Health,UPI,4593.58,85103.27
+2023-07-22 02:59:32,Income,Business Income,UPI,2639.83,87743.1
+2023-04-14 17:32:39,Income,Investments,Bank to Bank,1796.42,89539.52
+2023-07-14 23:15:11,Expense,Housing,Credit Card,2331.91,87207.61
+2024-01-27 19:32:41,Income,Salary,Cash,919.04,88126.65
+2023-06-28 13:31:55,Income,Business Income,Other,3149.58,91276.23
+2023-08-13 21:06:55,Expense,Education,Debit Card,1234.77,90041.46
+2023-07-17 12:52:34,Expense,Food,Credit Card,1773.39,88268.07
+2023-03-22 13:30:45,Income,Other,Credit Card,2269.03,90537.1
+2023-12-13 05:18:46,Expense,Transport,Cash,1069.8,89467.3
+2023-06-24 23:13:50,Income,Rental Income,UPI,238.41,89705.71
+2024-01-10 14:29:46,Income,Other,Credit Card,1548.79,91254.5
+2023-12-31 20:04:07,Expense,Education,Mobile Wallet,1613.78,89640.72
+2023-11-24 06:40:43,Income,Gifts,UPI,1598.74,91239.46
+2023-06-18 15:36:08,Expense,Housing,Credit Card,4043.1,87196.36
+2023-08-28 10:59:31,Expense,Transport,UPI,811.72,86384.64
+2023-05-12 13:08:36,Expense,Health,Mobile Wallet,3178.53,83206.11
+2023-03-01 18:30:58,Expense,Miscellaneous,Cash,2267.66,80938.45
+2023-02-21 04:35:46,Expense,Education,Mobile Wallet,439.85,80498.6
+2024-01-05 15:37:54,Expense,Miscellaneous,Credit Card,715.3,79783.3
+2023-09-10 07:54:57,Income,Gifts,Debit Card,448.39,80231.69
+2024-01-11 13:15:47,Income,Investments,UPI,4407.48,84639.17
+2023-01-12 11:16:36,Expense,Education,Bank to Bank,3460.76,81178.41
+2023-01-15 17:14:14,Income,Business Income,Cash,3710.03,84888.44
+2023-03-13 15:13:26,Expense,Bills,Bank to Bank,548.83,84339.61
+2023-09-23 02:43:29,Expense,Health,Cash,732.01,83607.6
+2023-06-12 14:12:48,Expense,Health,Cash,2973.21,80634.39
+2023-12-04 13:39:13,Income,Business Income,UPI,4069.2,84703.59
+2023-12-12 05:47:54,Income,Other,Debit Card,4964.34,89667.93
+2023-04-10 13:12:21,Expense,Health,Credit Card,2526.73,87141.2

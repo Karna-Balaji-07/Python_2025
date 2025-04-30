@@ -1,9 +1,0 @@
-Date,Expense/Income,Category,Payment Method,Amount,Balance
-2025-02-12 18:57:57,Expense,Food,Cash,200.0,9800.0
-2025-02-12 18:58:08,Income,Salary,Bank to Bank,1000.0,10800.0
-2025-02-12 18:58:19,Income,Freelance,Bank to Bank,250.0,11050.0
-2025-02-12 18:58:42,Expense,Transport,Cash,250.0,10800.0
-2025-02-12 18:59:06,Expense,Food,UPI,270.0,10530.0
-2025-02-12 18:59:34,Expense,Food,Cash,100.0,10430.0
-2025-02-13 17:39:14,Expense,Bills,UPI,650.0,9350.0
-2025-02-13 17:39:21,Income,Gifts,Bank to Bank,2560.0,11910.0
