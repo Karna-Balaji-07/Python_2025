@@ -218,3 +218,55 @@ print(np.minimum(in_arr1, in_arr2))
 in_arr1 = [np.nan, 0, np.nan]
 in_arr2 = [np.nan, np.nan, 0]
 print(np.minimum(in_arr1, in_arr2))
+
+#=========================================================================================================================
+# SECTION 7 : MATRIX MULTIPLICATION AND MANIPULATION
+
+# Element wise addition, subtraction and division
+x = np.array([[1, 2], [4, 5]])
+y = np.array([[7, 8], [9, 10]])
+
+print("Addition:\n", np.add(x, y))
+print("Subtraction:\n", np.subtract(x, y))
+print("Division:\n", np.divide(x, y))
+
+# Element wise multiplication and matrix multiplication
+x = np.array([[1, 2], [4, 5]])
+y = np.array([[7, 8], [9, 10]])
+
+print(f'ELement wise multiplication : {np.multiply(x,y)}')
+print(f'Matrix multiplication / Dot product : {np.dot(a,b)}')
+
+print(f'Square root of all the elements : {np.sqrt(x)}')
+print(f'Sum of all elements : {np.sum(y)}')
+print(f'Column wise sum : {np.sum(x,axis=1)}')
+print(f'Row wise sum : {np.sum(x,axis=0)}')
+print(f'Transpose : {x.T}')
+
+# To find the determinant of the matrix
+# Determinant of a square matrix is a special number that helps determine whether the matrix is invertible and how it transforms space
+sign, logdet = np.linalg.slogdet(x) # To large matrices
+# computes the sign and log of the determinant helps prevent numerical overflow or underflow
+res = sign * np.exp(logdet)
+print(res)
+
+result = np.linalg.det(x)
+print(result)
+
+# To find the inverse of a matrix
+A = np.array([[6, 1, 1],
+              [4, -2, 5],
+              [2, 8, 7]])
+print(np.linalg.inv(A))
+
+#===================================================================================================================================
+
+# SECTION 8 : RANDOM NUMBER GENERATION AND STATISTICS
+
+# Normal distribution
+x = np.random.normal()
+y = np.random.normal(size=10)
+z = np.random.normal(10,scale=2,size=(3,3))
+print(f'Single value normal distribution : {x}')
+print(f'Array of normal distribution : {y}')
+print(f'Mutlidimensional normal distribution : {z}')
